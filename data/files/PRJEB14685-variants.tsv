@@ -1,0 +1,57 @@
+﻿study_accession	analysis_accession	filename	archive_record	submitted_ftp	checked_https
+PRJEB14684	ERZ324548	12.raw_merged.vcf.gz	https://www.ebi.ac.uk/ena/browser/view/ERZ324548	ftp://ftp.sra.ebi.ac.uk/vol1/analysis/ERZ324/ERZ324548/12.raw_merged.vcf.gz	
+PRJEB14684	ERZ324549	22.raw_merged.vcf.gz	https://www.ebi.ac.uk/ena/browser/view/ERZ324549	ftp://ftp.sra.ebi.ac.uk/vol1/analysis/ERZ324/ERZ324549/22.raw_merged.vcf.gz	
+PRJEB14684	ERZ324550	8.raw_merged.vcf.gz	https://www.ebi.ac.uk/ena/browser/view/ERZ324550	ftp://ftp.sra.ebi.ac.uk/vol1/analysis/ERZ324/ERZ324550/8.raw_merged.vcf.gz	
+PRJEB14684	ERZ324551	X.raw_merged.vcf.gz	https://www.ebi.ac.uk/ena/browser/view/ERZ324551	ftp://ftp.sra.ebi.ac.uk/vol1/analysis/ERZ324/ERZ324551/X.raw_merged.vcf.gz	
+PRJEB14684	ERZ324552	18.raw_merged.vcf.gz	https://www.ebi.ac.uk/ena/browser/view/ERZ324552	ftp://ftp.sra.ebi.ac.uk/vol1/analysis/ERZ324/ERZ324552/18.raw_merged.vcf.gz	
+PRJEB14684	ERZ324553	3.raw_merged.vcf.gz	https://www.ebi.ac.uk/ena/browser/view/ERZ324553	ftp://ftp.sra.ebi.ac.uk/vol1/analysis/ERZ324/ERZ324553/3.raw_merged.vcf.gz	
+PRJEB14684	ERZ324554	23.raw_merged.vcf.gz	https://www.ebi.ac.uk/ena/browser/view/ERZ324554	ftp://ftp.sra.ebi.ac.uk/vol1/analysis/ERZ324/ERZ324554/23.raw_merged.vcf.gz	
+PRJEB14684	ERZ324555	2.raw_merged.vcf.gz	https://www.ebi.ac.uk/ena/browser/view/ERZ324555	ftp://ftp.sra.ebi.ac.uk/vol1/analysis/ERZ324/ERZ324555/2.raw_merged.vcf.gz	
+PRJEB14684	ERZ324556	19.raw_merged.vcf.gz	https://www.ebi.ac.uk/ena/browser/view/ERZ324556	ftp://ftp.sra.ebi.ac.uk/vol1/analysis/ERZ324/ERZ324556/19.raw_merged.vcf.gz	
+PRJEB14684	ERZ324557	1.raw_merged.vcf.gz	https://www.ebi.ac.uk/ena/browser/view/ERZ324557	ftp://ftp.sra.ebi.ac.uk/vol1/analysis/ERZ324/ERZ324557/1.raw_merged.vcf.gz	
+PRJEB14684	ERZ324558	24.raw_merged.vcf.gz	https://www.ebi.ac.uk/ena/browser/view/ERZ324558	ftp://ftp.sra.ebi.ac.uk/vol1/analysis/ERZ324/ERZ324558/24.raw_merged.vcf.gz	
+PRJEB14684	ERZ324559	17.raw_merged.vcf.gz	https://www.ebi.ac.uk/ena/browser/view/ERZ324559	ftp://ftp.sra.ebi.ac.uk/vol1/analysis/ERZ324/ERZ324559/17.raw_merged.vcf.gz	
+PRJEB14684	ERZ324560	14.raw_merged.vcf.gz	https://www.ebi.ac.uk/ena/browser/view/ERZ324560	ftp://ftp.sra.ebi.ac.uk/vol1/analysis/ERZ324/ERZ324560/14.raw_merged.vcf.gz	
+PRJEB14684	ERZ324561	MT.raw_merged.vcf.gz	https://www.ebi.ac.uk/ena/browser/view/ERZ324561	ftp://ftp.sra.ebi.ac.uk/vol1/analysis/ERZ324/ERZ324561/MT.raw_merged.vcf.gz	
+PRJEB14684	ERZ324562	26.raw_merged.vcf.gz	https://www.ebi.ac.uk/ena/browser/view/ERZ324562	ftp://ftp.sra.ebi.ac.uk/vol1/analysis/ERZ324/ERZ324562/26.raw_merged.vcf.gz	
+PRJEB14684	ERZ324563	7.raw_merged.vcf.gz	https://www.ebi.ac.uk/ena/browser/view/ERZ324563	ftp://ftp.sra.ebi.ac.uk/vol1/analysis/ERZ324/ERZ324563/7.raw_merged.vcf.gz	
+PRJEB14684	ERZ324564	4.raw_merged.vcf.gz	https://www.ebi.ac.uk/ena/browser/view/ERZ324564	ftp://ftp.sra.ebi.ac.uk/vol1/analysis/ERZ324/ERZ324564/4.raw_merged.vcf.gz	
+PRJEB14684	ERZ324565	10.raw_merged.vcf.gz	https://www.ebi.ac.uk/ena/browser/view/ERZ324565	ftp://ftp.sra.ebi.ac.uk/vol1/analysis/ERZ324/ERZ324565/10.raw_merged.vcf.gz	https://ftp.sra.ebi.ac.uk/vol1/analysis/ERZ324/ERZ324565/10.raw_merged.vcf.gz
+PRJEB14684	ERZ324566	13.raw_merged.vcf.gz	https://www.ebi.ac.uk/ena/browser/view/ERZ324566	ftp://ftp.sra.ebi.ac.uk/vol1/analysis/ERZ324/ERZ324566/13.raw_merged.vcf.gz	https://ftp.sra.ebi.ac.uk/vol1/analysis/ERZ324/ERZ324566/13.raw_merged.vcf.gz
+PRJEB14684	ERZ324567	21.raw_merged.vcf.gz	https://www.ebi.ac.uk/ena/browser/view/ERZ324567	ftp://ftp.sra.ebi.ac.uk/vol1/analysis/ERZ324/ERZ324567/21.raw_merged.vcf.gz	https://ftp.sra.ebi.ac.uk/vol1/analysis/ERZ324/ERZ324567/21.raw_merged.vcf.gz
+PRJEB14684	ERZ324568	15.raw_merged.vcf.gz	https://www.ebi.ac.uk/ena/browser/view/ERZ324568	ftp://ftp.sra.ebi.ac.uk/vol1/analysis/ERZ324/ERZ324568/15.raw_merged.vcf.gz	https://ftp.sra.ebi.ac.uk/vol1/analysis/ERZ324/ERZ324568/15.raw_merged.vcf.gz
+PRJEB14684	ERZ324569	16.raw_merged.vcf.gz	https://www.ebi.ac.uk/ena/browser/view/ERZ324569	ftp://ftp.sra.ebi.ac.uk/vol1/analysis/ERZ324/ERZ324569/16.raw_merged.vcf.gz	https://ftp.sra.ebi.ac.uk/vol1/analysis/ERZ324/ERZ324569/16.raw_merged.vcf.gz
+PRJEB14684	ERZ324570	9.raw_merged.vcf.gz	https://www.ebi.ac.uk/ena/browser/view/ERZ324570	ftp://ftp.sra.ebi.ac.uk/vol1/analysis/ERZ324/ERZ324570/9.raw_merged.vcf.gz	https://ftp.sra.ebi.ac.uk/vol1/analysis/ERZ324/ERZ324570/9.raw_merged.vcf.gz
+PRJEB14684	ERZ324571	5.raw_merged.vcf.gz	https://www.ebi.ac.uk/ena/browser/view/ERZ324571	ftp://ftp.sra.ebi.ac.uk/vol1/analysis/ERZ324/ERZ324571/5.raw_merged.vcf.gz	https://ftp.sra.ebi.ac.uk/vol1/analysis/ERZ324/ERZ324571/5.raw_merged.vcf.gz
+PRJEB14684	ERZ324572	25.raw_merged.vcf.gz	https://www.ebi.ac.uk/ena/browser/view/ERZ324572	ftp://ftp.sra.ebi.ac.uk/vol1/analysis/ERZ324/ERZ324572/25.raw_merged.vcf.gz	
+PRJEB14684	ERZ324573	20.raw_merged.vcf.gz	https://www.ebi.ac.uk/ena/browser/view/ERZ324573	ftp://ftp.sra.ebi.ac.uk/vol1/analysis/ERZ324/ERZ324573/20.raw_merged.vcf.gz	
+PRJEB14684	ERZ324574	11.raw_merged.vcf.gz	https://www.ebi.ac.uk/ena/browser/view/ERZ324574	ftp://ftp.sra.ebi.ac.uk/vol1/analysis/ERZ324/ERZ324574/11.raw_merged.vcf.gz	
+PRJEB14684	ERZ324575	6.raw_merged.vcf.gz	https://www.ebi.ac.uk/ena/browser/view/ERZ324575	ftp://ftp.sra.ebi.ac.uk/vol1/analysis/ERZ324/ERZ324575/6.raw_merged.vcf.gz	
+PRJEB14685	ERZ324576	12.filtered_intersect.vcf.gz	https://www.ebi.ac.uk/ena/browser/view/ERZ324576	ftp://ftp.sra.ebi.ac.uk/vol1/analysis/ERZ324/ERZ324576/12.filtered_intersect.vcf.gz	
+PRJEB14685	ERZ324577	22.filtered_intersect.vcf.gz	https://www.ebi.ac.uk/ena/browser/view/ERZ324577	ftp://ftp.sra.ebi.ac.uk/vol1/analysis/ERZ324/ERZ324577/22.filtered_intersect.vcf.gz	
+PRJEB14685	ERZ324578	8.filtered_intersect.vcf.gz	https://www.ebi.ac.uk/ena/browser/view/ERZ324578	ftp://ftp.sra.ebi.ac.uk/vol1/analysis/ERZ324/ERZ324578/8.filtered_intersect.vcf.gz	
+PRJEB14685	ERZ324579	X.filtered_intersect.vcf.gz	https://www.ebi.ac.uk/ena/browser/view/ERZ324579	ftp://ftp.sra.ebi.ac.uk/vol1/analysis/ERZ324/ERZ324579/X.filtered_intersect.vcf.gz	
+PRJEB14685	ERZ324580	18.filtered_intersect.vcf.gz	https://www.ebi.ac.uk/ena/browser/view/ERZ324580	ftp://ftp.sra.ebi.ac.uk/vol1/analysis/ERZ324/ERZ324580/18.filtered_intersect.vcf.gz	
+PRJEB14685	ERZ324581	3.filtered_intersect.vcf.gz	https://www.ebi.ac.uk/ena/browser/view/ERZ324581	ftp://ftp.sra.ebi.ac.uk/vol1/analysis/ERZ324/ERZ324581/3.filtered_intersect.vcf.gz	
+PRJEB14685	ERZ324582	23.filtered_intersect.vcf.gz	https://www.ebi.ac.uk/ena/browser/view/ERZ324582	ftp://ftp.sra.ebi.ac.uk/vol1/analysis/ERZ324/ERZ324582/23.filtered_intersect.vcf.gz	
+PRJEB14685	ERZ324583	2.filtered_intersect.vcf.gz	https://www.ebi.ac.uk/ena/browser/view/ERZ324583	ftp://ftp.sra.ebi.ac.uk/vol1/analysis/ERZ324/ERZ324583/2.filtered_intersect.vcf.gz	
+PRJEB14685	ERZ324584	19.filtered_intersect.vcf.gz	https://www.ebi.ac.uk/ena/browser/view/ERZ324584	ftp://ftp.sra.ebi.ac.uk/vol1/analysis/ERZ324/ERZ324584/19.filtered_intersect.vcf.gz	
+PRJEB14685	ERZ324585	1.filtered_intersect.vcf.gz	https://www.ebi.ac.uk/ena/browser/view/ERZ324585	ftp://ftp.sra.ebi.ac.uk/vol1/analysis/ERZ324/ERZ324585/1.filtered_intersect.vcf.gz	
+PRJEB14685	ERZ324586	24.filtered_intersect.vcf.gz	https://www.ebi.ac.uk/ena/browser/view/ERZ324586	ftp://ftp.sra.ebi.ac.uk/vol1/analysis/ERZ324/ERZ324586/24.filtered_intersect.vcf.gz	
+PRJEB14685	ERZ324587	17.filtered_intersect.vcf.gz	https://www.ebi.ac.uk/ena/browser/view/ERZ324587	ftp://ftp.sra.ebi.ac.uk/vol1/analysis/ERZ324/ERZ324587/17.filtered_intersect.vcf.gz	
+PRJEB14685	ERZ324588	14.filtered_intersect.vcf.gz	https://www.ebi.ac.uk/ena/browser/view/ERZ324588	ftp://ftp.sra.ebi.ac.uk/vol1/analysis/ERZ324/ERZ324588/14.filtered_intersect.vcf.gz	
+PRJEB14685	ERZ324589	MT.filtered_intersect.vcf.gz	https://www.ebi.ac.uk/ena/browser/view/ERZ324589	ftp://ftp.sra.ebi.ac.uk/vol1/analysis/ERZ324/ERZ324589/MT.filtered_intersect.vcf.gz	
+PRJEB14685	ERZ324590	26.filtered_intersect.vcf.gz	https://www.ebi.ac.uk/ena/browser/view/ERZ324590	ftp://ftp.sra.ebi.ac.uk/vol1/analysis/ERZ324/ERZ324590/26.filtered_intersect.vcf.gz	
+PRJEB14685	ERZ324591	7.filtered_intersect.vcf.gz	https://www.ebi.ac.uk/ena/browser/view/ERZ324591	ftp://ftp.sra.ebi.ac.uk/vol1/analysis/ERZ324/ERZ324591/7.filtered_intersect.vcf.gz	
+PRJEB14685	ERZ324592	4.filtered_intersect.vcf.gz	https://www.ebi.ac.uk/ena/browser/view/ERZ324592	ftp://ftp.sra.ebi.ac.uk/vol1/analysis/ERZ324/ERZ324592/4.filtered_intersect.vcf.gz	
+PRJEB14685	ERZ324593	10.filtered_intersect.vcf.gz	https://www.ebi.ac.uk/ena/browser/view/ERZ324593	ftp://ftp.sra.ebi.ac.uk/vol1/analysis/ERZ324/ERZ324593/10.filtered_intersect.vcf.gz	
+PRJEB14685	ERZ324594	13.filtered_intersect.vcf.gz	https://www.ebi.ac.uk/ena/browser/view/ERZ324594	ftp://ftp.sra.ebi.ac.uk/vol1/analysis/ERZ324/ERZ324594/13.filtered_intersect.vcf.gz	
+PRJEB14685	ERZ324595	21.filtered_intersect.vcf.gz	https://www.ebi.ac.uk/ena/browser/view/ERZ324595	ftp://ftp.sra.ebi.ac.uk/vol1/analysis/ERZ324/ERZ324595/21.filtered_intersect.vcf.gz	
+PRJEB14685	ERZ324596	15.filtered_intersect.vcf.gz	https://www.ebi.ac.uk/ena/browser/view/ERZ324596	ftp://ftp.sra.ebi.ac.uk/vol1/analysis/ERZ324/ERZ324596/15.filtered_intersect.vcf.gz	
+PRJEB14685	ERZ324597	16.filtered_intersect.vcf.gz	https://www.ebi.ac.uk/ena/browser/view/ERZ324597	ftp://ftp.sra.ebi.ac.uk/vol1/analysis/ERZ324/ERZ324597/16.filtered_intersect.vcf.gz	
+PRJEB14685	ERZ324598	9.filtered_intersect.vcf.gz	https://www.ebi.ac.uk/ena/browser/view/ERZ324598	ftp://ftp.sra.ebi.ac.uk/vol1/analysis/ERZ324/ERZ324598/9.filtered_intersect.vcf.gz	
+PRJEB14685	ERZ324599	5.filtered_intersect.vcf.gz	https://www.ebi.ac.uk/ena/browser/view/ERZ324599	ftp://ftp.sra.ebi.ac.uk/vol1/analysis/ERZ324/ERZ324599/5.filtered_intersect.vcf.gz	
+PRJEB14685	ERZ324600	25.filtered_intersect.vcf.gz	https://www.ebi.ac.uk/ena/browser/view/ERZ324600	ftp://ftp.sra.ebi.ac.uk/vol1/analysis/ERZ324/ERZ324600/25.filtered_intersect.vcf.gz	https://ftp.sra.ebi.ac.uk/vol1/analysis/ERZ324/ERZ324600/25.filtered_intersect.vcf.gz
+PRJEB14685	ERZ324601	20.filtered_intersect.vcf.gz	https://www.ebi.ac.uk/ena/browser/view/ERZ324601	ftp://ftp.sra.ebi.ac.uk/vol1/analysis/ERZ324/ERZ324601/20.filtered_intersect.vcf.gz	
+PRJEB14685	ERZ324602	11.filtered_intersect.vcf.gz	https://www.ebi.ac.uk/ena/browser/view/ERZ324602	ftp://ftp.sra.ebi.ac.uk/vol1/analysis/ERZ324/ERZ324602/11.filtered_intersect.vcf.gz	
+PRJEB14685	ERZ324603	6.filtered_intersect.vcf.gz	https://www.ebi.ac.uk/ena/browser/view/ERZ324603	ftp://ftp.sra.ebi.ac.uk/vol1/analysis/ERZ324/ERZ324603/6.filtered_intersect.vcf.gz	

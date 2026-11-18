@@ -1,0 +1,6 @@
+﻿study_accession	run_accession	sample_accession	scientific_name	library_strategy	fastq_urls	run_record
+PRJDB11969	DRR495810	SAMD00391653	Mus musculus	WGS	https://ftp.sra.ebi.ac.uk/vol1/fastq/DRR495/DRR495810/DRR495810_1.fastq.gz;https://ftp.sra.ebi.ac.uk/vol1/fastq/DRR495/DRR495810/DRR495810_2.fastq.gz	https://www.ebi.ac.uk/ena/browser/view/DRR495810
+PRJDB11969	DRR495811	SAMD00391654	Mus musculus	WGS	https://ftp.sra.ebi.ac.uk/vol1/fastq/DRR495/DRR495811/DRR495811_1.fastq.gz;https://ftp.sra.ebi.ac.uk/vol1/fastq/DRR495/DRR495811/DRR495811_2.fastq.gz	https://www.ebi.ac.uk/ena/browser/view/DRR495811
+PRJDB11969	DRR495812	SAMD00391655	Mus musculus	WGS	https://ftp.sra.ebi.ac.uk/vol1/fastq/DRR495/DRR495812/DRR495812_1.fastq.gz;https://ftp.sra.ebi.ac.uk/vol1/fastq/DRR495/DRR495812/DRR495812_2.fastq.gz	https://www.ebi.ac.uk/ena/browser/view/DRR495812
+PRJDB11969	DRR495813	SAMD00391656	Mus musculus	WGS	https://ftp.sra.ebi.ac.uk/vol1/fastq/DRR495/DRR495813/DRR495813_1.fastq.gz;https://ftp.sra.ebi.ac.uk/vol1/fastq/DRR495/DRR495813/DRR495813_2.fastq.gz	https://www.ebi.ac.uk/ena/browser/view/DRR495813
+PRJDB11969	DRR495814	SAMD00391657	Mus musculus	WGS	https://ftp.sra.ebi.ac.uk/vol1/fastq/DRR495/DRR495814/DRR495814_1.fastq.gz;https://ftp.sra.ebi.ac.uk/vol1/fastq/DRR495/DRR495814/DRR495814_2.fastq.gz	https://www.ebi.ac.uk/ena/browser/view/DRR495814

@@ -1,0 +1,62 @@
+[
+  {
+    "id": "kakapo",
+    "asset": "kakapo.webp",
+    "position": "49% 43%",
+    "author": "Chris Birmingham",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "source": "https://www.rockefeller.edu/news/30462-vertebrate-genomes-project-vgp/",
+    "project_url": "https://vertebrategenomesproject.org/",
+    "en": {
+      "name": "Kākāpō",
+      "project": "Vertebrate Genomes Project",
+      "context": "The Rockefeller University featured this kākāpō in its coverage of the Vertebrate Genomes Project, an initiative of Genome 10K."
+    },
+    "zh": {
+      "name": "鸮鹦鹉",
+      "project": "脊椎动物基因组计划",
+      "context": "洛克菲勒大学在介绍脊椎动物基因组计划（VGP）的报道中采用了这张照片。VGP 由 Genome 10K 发起。"
+    }
+  },
+  {
+    "id": "scotch-argus",
+    "asset": "scotch-argus.webp",
+    "position": "50% 48%",
+    "author": "Gail Hampshire",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "source": "https://www.flickr.com/photos/gails_pictures/15586233223/",
+    "project_url": "https://www.darwintreeoflife.org/news_item/borders-forest-trust-butterflies-bryophytes-and-barcoding-on-the-scottish-borders/",
+    "en": {
+      "name": "Scotch argus",
+      "project": "Darwin Tree of Life",
+      "context": "The Darwin Tree of Life project featured this photograph of Erebia aethiops in its account of butterfly sequencing in the Scottish Borders."
+    },
+    "zh": {
+      "name": "苏格兰眼蝶",
+      "project": "达尔文生命之树计划",
+      "context": "达尔文生命之树计划在苏格兰边区蝴蝶测序报道中采用了这张苏格兰眼蝶（Erebia aethiops）的照片。"
+    }
+  },
+  {
+    "id": "green-turtle",
+    "asset": "green-turtle.webp",
+    "position": "53% 47%",
+    "author": "Christoph Schuetzenhofer",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "source": "https://www.genomeark.org/genomeark-all/Chelonia_mydas.html",
+    "project_url": "https://www.genomeark.org/",
+    "en": {
+      "name": "Green sea turtle",
+      "project": "VGP / GenomeArk",
+      "context": "GenomeArk uses this photograph on the green sea turtle (Chelonia mydas) genome page."
+    },
+    "zh": {
+      "name": "绿海龟",
+      "project": "VGP / GenomeArk",
+      "context": "照片取自 GenomeArk 的绿海龟（Chelonia mydas）基因组项目页。"
+    }
+  }
+]

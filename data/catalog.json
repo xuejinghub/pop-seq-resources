@@ -1,0 +1,2399 @@
+[
+  {
+    "id": "CRA027444",
+    "common": "佛罗里达文昌鱼",
+    "taxon": "Branchiostoma floridae",
+    "group": "头索动物",
+    "title": "佛罗里达文昌鱼两代家系的生殖系新生突变",
+    "summary": "研究对同一家系的双亲和 104 个 F1 子代进行高深度全基因组短读长测序，并利用保留双亲等位序列的组装识别新生突变。每个子代的突变记录见论文补充表 S6。",
+    "count": 106,
+    "unit": "个体",
+    "design": [
+      "家系"
+    ],
+    "vcf": false,
+    "reference": "研究生成的双亲等位感知组装（Platanus-allee）",
+    "depth": "每个个体约 50× 或更高",
+    "sources": [
+      [
+        "论文",
+        "https://doi.org/10.1093/molbev/msag017"
+      ],
+      [
+        "原始测序 · CRA027444",
+        "https://ngdc.cncb.ac.cn/gsa/browse/CRA027444"
+      ],
+      [
+        "BioProject · PRJCA042497",
+        "https://ngdc.cncb.ac.cn/bioproject/browse/PRJCA042497"
+      ],
+      [
+        "双亲组装与扩增子测序",
+        "https://doi.org/10.57760/sciencedb.27648"
+      ],
+      [
+        "作者分析代码",
+        "https://github.com/xuejinghub/Amphioxus_denovo_mutation_rate"
+      ]
+    ],
+    "aliases": "佛罗里达文昌鱼 Florida lancelet Branchiostoma floridae CRA027444 PRJCA042497",
+    "archive_ids": [
+      "CRA027444",
+      "PRJCA042497"
+    ],
+    "runs": 0,
+    "biosamples": 0,
+    "variant_files": 0,
+    "vcf_detail": "作者通过补充表提供新生突变记录，完整家系基因型 VCF 的公开下载尚未确认。",
+    "en": {
+      "common": "Florida lancelet",
+      "taxon": "Branchiostoma floridae",
+      "title": "Germline mutation in a two-generation Florida lancelet pedigree",
+      "summary": "One breeding pair and its 104 F1 offspring were sequenced using high-depth short reads. Allele-aware assemblies of the parents served as references for mutation discovery. Supplementary Table S6 reports calls for individual offspring.",
+      "unit": "individuals",
+      "reference": "Study-specific allele-aware parental assemblies (Platanus-allee)",
+      "depth": "Approximately 50× or higher for each individual",
+      "source_labels": [
+        "Article",
+        "Raw reads · CRA027444",
+        "BioProject · PRJCA042497",
+        "Parental assemblies and amplicon data",
+        "Analysis code"
+      ],
+      "vcf_detail": "The authors provide de novo calls in a supplement. A public download of the genome-wide pedigree genotype VCF has not been confirmed."
+    }
+  },
+  {
+    "id": "PRJEB82216",
+    "common": "三刺鱼",
+    "taxon": "Gasterosteus aculeatus",
+    "group": "鱼类",
+    "title": "三刺鱼四个家系的新生突变",
+    "summary": "四对无亲缘的亲本各产生 10 个受测全同胞子代。研究对 8 个亲本和 40 个子代进行全基因组重测序，报告了 115 个去重的新生突变。",
+    "count": 48,
+    "unit": "个体",
+    "design": [
+      "家系"
+    ],
+    "vcf": false,
+    "reference": "三刺鱼参考基因组 v5",
+    "depth": "约 45×",
+    "sources": [
+      [
+        "论文",
+        "https://doi.org/10.1038/s41437-025-00767-9"
+      ],
+      [
+        "原始测序 · PRJEB82216",
+        "https://www.ebi.ac.uk/ena/browser/view/PRJEB82216"
+      ],
+      [
+        "作者提供的基因组注释",
+        "https://doi.org/10.6084/m9.figshare.27645810"
+      ],
+      [
+        "作者分析代码",
+        "https://github.com/zcharlene/3sticklebackDNMrate"
+      ]
+    ],
+    "aliases": "三刺鱼 Three-spined stickleback Gasterosteus aculeatus PRJEB82216",
+    "archive_ids": [
+      "PRJEB82216"
+    ],
+    "runs": 96,
+    "biosamples": 48,
+    "variant_files": 0,
+    "vcf_detail": "已核实原始测序归档。作者列出的 Figshare 文件为注释；本地基于 FASTQ 的调用未计作公开 VCF。",
+    "en": {
+      "common": "Three-spined stickleback",
+      "taxon": "Gasterosteus aculeatus",
+      "title": "De novo mutation in four stickleback families",
+      "summary": "Four pairs of unrelated parents each contributed ten full-sib offspring. Whole-genome resequencing of eight parents and forty offspring yielded 115 distinct de novo mutations.",
+      "unit": "individuals",
+      "reference": "Stickleback reference genome v5",
+      "depth": "Approximately 45×",
+      "source_labels": [
+        "Article",
+        "Raw reads · PRJEB82216",
+        "Author-deposited genome annotations",
+        "Analysis code"
+      ],
+      "vcf_detail": "The archive provides sequencing reads. The Figshare release contains genome annotations; locally called genotypes are excluded from the public VCF field."
+    }
+  },
+  {
+    "id": "GVM001075",
+    "common": "家犬",
+    "taxon": "Canis lupus familiaris",
+    "group": "哺乳类",
+    "title": "43 个犬品种的多代家系测序",
+    "summary": "643 只犬来自 54 个多代家系，共构成 404 个亲子三联体。深度筛选后，390 个三联体进入新生突变分析。本站的 Run 清单覆盖论文所引 NCBI 项目的归档记录，项目中的 BioSample 数与用于分析的个体数口径不同。",
+    "count": 643,
+    "unit": "个体",
+    "design": [
+      "家系"
+    ],
+    "vcf": true,
+    "reference": "CanFam3.1",
+    "depth": "643 只犬的平均覆盖度为 43.3×",
+    "sources": [
+      [
+        "论文",
+        "https://doi.org/10.1186/s13059-025-03804-2"
+      ],
+      [
+        "逐三联体 VCF · GVM001075",
+        "https://ngdc.cncb.ac.cn/gvm/getProjectDetail?project=GVM001075"
+      ],
+      [
+        "作者列出的其他变异归档 · GVM000097",
+        "https://ngdc.cncb.ac.cn/gvm/getProjectDetail?project=GVM000097"
+      ],
+      [
+        "原始测序 · PRJNA1079355",
+        "https://www.ebi.ac.uk/ena/browser/view/PRJNA1079355"
+      ],
+      [
+        "GSA 原始测序 · CRA004356",
+        "https://ngdc.cncb.ac.cn/gsa/browse/CRA004356"
+      ],
+      [
+        "GSA 原始测序 · CRA002653",
+        "https://ngdc.cncb.ac.cn/gsa/browse/CRA002653"
+      ],
+      [
+        "GSA 原始测序 · CRA002915",
+        "https://ngdc.cncb.ac.cn/gsa/browse/CRA002915"
+      ],
+      [
+        "GSA 原始测序 · CRA001113",
+        "https://ngdc.cncb.ac.cn/gsa/browse/CRA001113"
+      ]
+    ],
+    "aliases": "家犬 Domestic dog Canis lupus familiaris GVM001075 PRJCA002643 PRJNA1079355 CRA004356 CRA002653 CRA002915 CRA001113",
+    "archive_ids": [
+      "GVM001075",
+      "PRJCA002643",
+      "PRJNA1079355",
+      "CRA004356",
+      "CRA002653",
+      "CRA002915",
+      "CRA001113"
+    ],
+    "runs": 669,
+    "biosamples": 668,
+    "variant_files": 404,
+    "vcf_detail": "GVM001075 提供逐三联体过滤 VCF；最终新生突变清单另见论文补充 Data S2。",
+    "en": {
+      "common": "Domestic dog",
+      "taxon": "Canis lupus familiaris",
+      "title": "Extended pedigrees across 43 dog breeds",
+      "summary": "The study sequenced 643 dogs from 54 multigenerational families, forming 404 parent–offspring trios. After coverage filtering, 390 trios entered the de novo mutation analysis. The run manifest covers the cited NCBI project; its BioSample count is an archive-wide total.",
+      "unit": "individuals",
+      "reference": "CanFam3.1",
+      "depth": "Mean coverage of 43.3× across 643 dogs",
+      "source_labels": [
+        "Article",
+        "Per-trio VCF files · GVM001075",
+        "Additional variant archive · GVM000097",
+        "Raw reads · PRJNA1079355",
+        "GSA raw reads · CRA004356",
+        "GSA raw reads · CRA002653",
+        "GSA raw reads · CRA002915",
+        "GSA raw reads · CRA001113"
+      ],
+      "vcf_detail": "GVM001075 provides filtered genotypes for individual trios. The final de novo calls appear separately in Supplementary Data S2."
+    }
+  },
+  {
+    "id": "PRJNA1172395",
+    "common": "西方仓鸮",
+    "taxon": "Tyto alba",
+    "group": "鸟类",
+    "title": "瑞士仓鸮长期系谱测序",
+    "summary": "对长期追踪的仓鸮家系进行中高深度测序。连锁作图子集包括 28 个家系、250 个个体和 350 次减数分裂。",
+    "count": 326,
+    "unit": "BioSample",
+    "design": [
+      "家系"
+    ],
+    "vcf": false,
+    "reference": "",
+    "depth": "",
+    "sources": [
+      [
+        "原始研究或发布页",
+        "https://doi.org/10.1093/genetics/iyae190"
+      ],
+      [
+        "项目归档 · PRJNA1172395",
+        "https://www.ebi.ac.uk/ena/browser/view/PRJNA1172395"
+      ]
+    ],
+    "aliases": "Barn owl 猫头鹰 仓鸮",
+    "archive_ids": [
+      "PRJNA1172395"
+    ],
+    "runs": 326,
+    "biosamples": 326,
+    "variant_files": 0,
+    "en": {
+      "common": "Western barn owl",
+      "title": "Sequencing a long-term Swiss barn owl pedigree",
+      "summary": "The study sequenced members of a long-term pedigree at medium to high coverage. The linkage-mapping subset included 250 birds from 28 families and captured 350 meioses.",
+      "unit": "BioSamples",
+      "reference": "",
+      "depth": "",
+      "source_labels": [
+        "Research paper",
+        "Project archive · PRJNA1172395"
+      ],
+      "taxon": "Tyto alba"
+    }
+  },
+  {
+    "id": "PRJEB59912",
+    "common": "西方蜜蜂",
+    "taxon": "Apis mellifera",
+    "group": "昆虫",
+    "title": "AmelHap 蜜蜂单倍型图谱",
+    "summary": "研究汇集来自 19 个国家的 1,407 只雄蜂，质控后有 1,328 个样本进入变异面板。新测部分与最终变异集分开归档。",
+    "count": 1328,
+    "unit": "VCF 样本",
+    "design": [
+      "群体"
+    ],
+    "vcf": true,
+    "reference": "Amel_HAv3.1",
+    "depth": "",
+    "sources": [
+      [
+        "原始研究或发布页",
+        "https://doi.org/10.1038/s41597-023-02097-z"
+      ],
+      [
+        "项目归档 · PRJEB59912",
+        "https://www.ebi.ac.uk/ena/browser/view/PRJEB59912"
+      ],
+      [
+        "项目归档 · PRJEB39369",
+        "https://www.ebi.ac.uk/ena/browser/view/PRJEB39369"
+      ],
+      [
+        "VCF 归档记录 · ERZ16182398",
+        "https://www.ebi.ac.uk/ena/browser/view/ERZ16182398"
+      ]
+    ],
+    "aliases": "Honey bee drone",
+    "archive_ids": [
+      "PRJEB59912",
+      "PRJEB39369"
+    ],
+    "runs": 100,
+    "biosamples": 45,
+    "variant_files": 1,
+    "en": {
+      "common": "Western honey bee",
+      "title": "AmelHap honey bee haplotype map",
+      "summary": "The study brought together 1,407 drones from 19 countries. After quality control, 1,328 samples entered the variant panel. The newly generated reads and the final variant calls are available under separate accessions.",
+      "unit": "VCF samples",
+      "reference": "Amel_HAv3.1",
+      "depth": "",
+      "source_labels": [
+        "Research paper",
+        "Project archive · PRJEB59912",
+        "Project archive · PRJEB39369",
+        "VCF archive record · ERZ16182398"
+      ],
+      "taxon": "Apis mellifera"
+    }
+  },
+  {
+    "id": "PRJEB62420",
+    "common": "犬、狼与郊狼",
+    "taxon": "Canis spp.",
+    "group": "哺乳类",
+    "title": "Dog10K 第一期犬科变异面板",
+    "summary": "联合调用包含 1,987 个犬科样本，其中 1,929 个进入高质量分析子集。发布样本表给出了逐样本有效常染色体覆盖度。",
+    "count": 1987,
+    "unit": "VCF 样本",
+    "design": [
+      "群体"
+    ],
+    "vcf": true,
+    "reference": "UU_Cfam_GSD_1.0",
+    "depth": "18.99×，1,987 个样本的有效常染色体平均覆盖度中位数",
+    "sources": [
+      [
+        "原始研究或发布页",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC10426128/"
+      ],
+      [
+        "项目归档 · PRJEB62420",
+        "https://www.ebi.ac.uk/ena/browser/view/PRJEB62420"
+      ],
+      [
+        "VCF 归档记录 · ERZ18321977",
+        "https://www.ebi.ac.uk/ena/browser/view/ERZ18321977"
+      ]
+    ],
+    "aliases": "dog wolf coyote 狗 家犬 Canis lupus Canis latrans",
+    "archive_ids": [
+      "PRJEB62420"
+    ],
+    "runs": 0,
+    "biosamples": 0,
+    "variant_files": 1,
+    "en": {
+      "common": "Dogs, wolves and coyotes",
+      "title": "Dog10K phase 1 canid variation panel",
+      "summary": "The consortium called variants jointly across 1,987 canids and retained 1,929 in its high-quality analysis subset. The released sample table reports effective autosomal coverage for each sample.",
+      "unit": "VCF samples",
+      "reference": "UU_Cfam_GSD_1.0",
+      "depth": "18.99× median effective autosomal mean coverage across 1,987 samples",
+      "source_labels": [
+        "Research paper",
+        "Project archive · PRJEB62420",
+        "VCF archive record · ERZ18321977"
+      ],
+      "taxon": "Canis spp."
+    }
+  },
+  {
+    "id": "PRJNA982083",
+    "common": "Cunner 隆头鱼",
+    "taxon": "Tautogolabrus adspersus",
+    "group": "鱼类",
+    "title": "西北大西洋礁栖鱼群体基因组",
+    "summary": "研究分析了 20 个采样地点的 803 个个体。ENA 提供测序数据，作者另在 Dryad 发布 BEAGLE 格式的基因型似然。",
+    "count": 803,
+    "unit": "个体",
+    "design": [
+      "群体"
+    ],
+    "vcf": false,
+    "reference": "",
+    "depth": "",
+    "sources": [
+      [
+        "原始研究或发布页",
+        "https://www.ncbi.nlm.nih.gov/bioproject/982083"
+      ],
+      [
+        "作者数据 · BEAGLE",
+        "https://doi.org/10.5061/dryad.ksn02v799"
+      ],
+      [
+        "项目归档 · PRJNA982083",
+        "https://www.ebi.ac.uk/ena/browser/view/PRJNA982083"
+      ]
+    ],
+    "aliases": "Cunner bergall",
+    "archive_ids": [
+      "PRJNA982083"
+    ],
+    "runs": 808,
+    "biosamples": 808,
+    "variant_files": 0,
+    "en": {
+      "common": "Cunner",
+      "title": "Population genomics of a Northwest Atlantic reef fish",
+      "summary": "The study analyzed 803 fish from 20 sampling sites. ENA archives the sequencing reads, and the authors deposited genotype likelihoods in BEAGLE format on Dryad.",
+      "unit": "individuals",
+      "reference": "",
+      "depth": "",
+      "source_labels": [
+        "NCBI BioProject",
+        "Author-deposited data · BEAGLE",
+        "Project archive · PRJNA982083"
+      ],
+      "taxon": "Tautogolabrus adspersus"
+    }
+  },
+  {
+    "id": "1001G-v3.1",
+    "common": "拟南芥",
+    "taxon": "Arabidopsis thaliana",
+    "group": "植物",
+    "title": "1001 Genomes 全球种质变异图谱",
+    "summary": "v3.1 发布集汇集 1,135 份拟南芥种质。可获取以 TAIR10 为参考的 SNP 与短 indel 联合 VCF。",
+    "count": 1135,
+    "unit": "种质",
+    "design": [
+      "群体"
+    ],
+    "vcf": true,
+    "reference": "TAIR10",
+    "depth": "",
+    "sources": [
+      [
+        "原始研究或发布页",
+        "https://1001genomes.org/data/GMI-MPI/releases/v3.1/"
+      ],
+      [
+        "联合 VCF",
+        "https://1001genomes.org/data/GMI-MPI/releases/v3.1/1001genomes_snp-short-indel_with_tair10_only_ACGTN.vcf.gz"
+      ],
+      [
+        "研究论文",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC4949382/"
+      ]
+    ],
+    "aliases": "thale cress",
+    "archive_ids": [],
+    "runs": 0,
+    "biosamples": 0,
+    "variant_files": 0,
+    "en": {
+      "common": "Thale cress",
+      "title": "1001 Genomes global Arabidopsis variation panel",
+      "summary": "Release 3.1 covers 1,135 accessions of Arabidopsis thaliana. The joint VCF contains SNPs and short indels called against TAIR10.",
+      "unit": "accessions",
+      "reference": "TAIR10",
+      "depth": "",
+      "source_labels": [
+        "Data release",
+        "Joint VCF",
+        "Research paper"
+      ],
+      "taxon": "Arabidopsis thaliana"
+    }
+  },
+  {
+    "id": "PRJEB66288",
+    "common": "桃蛀螟",
+    "taxon": "Conogethes punctiferalis",
+    "group": "昆虫",
+    "title": "中国桃蛀螟全基因组重测序",
+    "summary": "对来自中国东部九省的 110 个无亲缘个体进行全基因组重测序，并发布染色体水平参考组装与群体变异。",
+    "count": 110,
+    "unit": "个体",
+    "design": [
+      "群体"
+    ],
+    "vcf": true,
+    "reference": "GCA_031163375.1",
+    "depth": "18.4×，论文报告的 110 个体平均覆盖度",
+    "sources": [
+      [
+        "原始研究或发布页",
+        "https://doi.org/10.1038/s41597-023-02730-x"
+      ],
+      [
+        "原始测序 · SRP451679",
+        "https://www.ebi.ac.uk/ena/browser/view/SRP451679"
+      ],
+      [
+        "项目归档 · PRJEB66288",
+        "https://www.ebi.ac.uk/ena/browser/view/PRJEB66288"
+      ],
+      [
+        "VCF 归档记录 · ERZ21819523",
+        "https://www.ebi.ac.uk/ena/browser/view/ERZ21819523"
+      ]
+    ],
+    "aliases": "yellow peach moth",
+    "archive_ids": [
+      "PRJEB66288"
+    ],
+    "runs": 0,
+    "biosamples": 0,
+    "variant_files": 1,
+    "en": {
+      "common": "Yellow peach moth",
+      "title": "Whole-genome resequencing of yellow peach moths in China",
+      "summary": "The researchers sequenced 110 unrelated moths from nine provinces in eastern China and released a chromosome-level reference assembly and population variant calls.",
+      "unit": "individuals",
+      "reference": "GCA_031163375.1",
+      "depth": "18.4× mean coverage across 110 individuals (study estimate)",
+      "source_labels": [
+        "Research paper",
+        "Raw reads · SRP451679",
+        "Project archive · PRJEB66288",
+        "VCF archive record · ERZ21819523"
+      ],
+      "taxon": "Conogethes punctiferalis"
+    }
+  },
+  {
+    "id": "PRJEB34846",
+    "common": "绿头鸭及家鸭品种",
+    "taxon": "Anas platyrhynchos",
+    "group": "鸟类",
+    "title": "韩国地方鸭与其他鸭品种比较",
+    "summary": "比较 15 个品种的 123 个个体。论文报告新测序的 20 只韩国地方鸭平均覆盖度为 25.7×。",
+    "count": 123,
+    "unit": "个体",
+    "design": [
+      "群体"
+    ],
+    "vcf": true,
+    "reference": "",
+    "depth": "",
+    "sources": [
+      [
+        "原始研究或发布页",
+        "https://doi.org/10.1186/s12864-020-06933-z"
+      ],
+      [
+        "项目归档 · PRJEB34846",
+        "https://www.ebi.ac.uk/ena/browser/view/PRJEB34846"
+      ],
+      [
+        "VCF 归档记录 · ERZ1089764",
+        "https://www.ebi.ac.uk/ena/browser/view/ERZ1089764"
+      ]
+    ],
+    "aliases": "mallard duck",
+    "archive_ids": [
+      "PRJEB34846"
+    ],
+    "runs": 0,
+    "biosamples": 0,
+    "variant_files": 16,
+    "en": {
+      "common": "Mallard and domestic duck breeds",
+      "title": "Korean native ducks and other duck breeds",
+      "summary": "The comparison covers 123 individuals from 15 breeds. The 20 newly sequenced Korean native ducks had a mean coverage of 25.7×.",
+      "unit": "individuals",
+      "reference": "",
+      "depth": "",
+      "source_labels": [
+        "Research paper",
+        "Project archive · PRJEB34846",
+        "VCF archive record · ERZ1089764"
+      ],
+      "taxon": "Anas platyrhynchos"
+    }
+  },
+  {
+    "id": "PRJEB55239",
+    "common": "鸡",
+    "taxon": "Gallus gallus",
+    "group": "鸟类",
+    "title": "文昌鸡遗传多样性与群体结构",
+    "summary": "变异集包括 235 只文昌鸡及 123 只其他品种的对照鸡。序列与变异分别存入两个归档项目。",
+    "count": 358,
+    "unit": "个体",
+    "design": [
+      "群体"
+    ],
+    "vcf": true,
+    "reference": "",
+    "depth": "",
+    "sources": [
+      [
+        "原始研究或发布页",
+        "https://doi.org/10.1111/age.13293"
+      ],
+      [
+        "项目归档 · PRJEB55239",
+        "https://www.ebi.ac.uk/ena/browser/view/PRJEB55239"
+      ],
+      [
+        "项目归档 · PRJNA858168",
+        "https://www.ebi.ac.uk/ena/browser/view/PRJNA858168"
+      ],
+      [
+        "VCF 归档记录 · ERZ12633831",
+        "https://www.ebi.ac.uk/ena/browser/view/ERZ12633831"
+      ]
+    ],
+    "aliases": "chicken Wenchang",
+    "archive_ids": [
+      "PRJEB55239",
+      "PRJNA858168"
+    ],
+    "runs": 250,
+    "biosamples": 235,
+    "variant_files": 1,
+    "en": {
+      "common": "Chicken",
+      "title": "Genetic diversity and population structure of Wenchang chickens",
+      "summary": "The variant panel includes 235 Wenchang chickens and 123 comparison birds from other breeds. The reads and variant calls are available under separate project accessions.",
+      "unit": "individuals",
+      "reference": "",
+      "depth": "",
+      "source_labels": [
+        "Research paper",
+        "Project archive · PRJEB55239",
+        "Project archive · PRJNA858168",
+        "VCF archive record · ERZ12633831"
+      ],
+      "taxon": "Gallus gallus"
+    }
+  },
+  {
+    "id": "PRJEB39599",
+    "common": "九刺鱼",
+    "taxon": "Pungitius pungitius · P. tymensis",
+    "group": "鱼类",
+    "title": "野生九刺鱼群体测序",
+    "summary": "ENA 的 870 条运行中，869 条标为 P. pungitius，1 条标为 P. tymensis。作者通过 Zenodo 另行发布分析用过滤 VCF。",
+    "count": 870,
+    "unit": "Run",
+    "design": [
+      "群体"
+    ],
+    "vcf": true,
+    "reference": "",
+    "depth": "",
+    "sources": [
+      [
+        "原始研究或发布页",
+        "https://doi.org/10.1111/mec.16651"
+      ],
+      [
+        "作者数据与过滤 VCF",
+        "https://zenodo.org/records/6951309"
+      ],
+      [
+        "项目归档 · PRJEB39599",
+        "https://www.ebi.ac.uk/ena/browser/view/PRJEB39599"
+      ]
+    ],
+    "aliases": "nine-spined stickleback",
+    "archive_ids": [
+      "PRJEB39599"
+    ],
+    "runs": 870,
+    "biosamples": 870,
+    "variant_files": 0,
+    "en": {
+      "common": "Nine-spined sticklebacks",
+      "title": "Whole-genome sequencing of wild nine-spined sticklebacks",
+      "summary": "Of the 870 ENA runs, 869 are assigned to P. pungitius and one to P. tymensis. The authors deposited the filtered VCF used in their analysis on Zenodo.",
+      "unit": "runs",
+      "reference": "",
+      "depth": "",
+      "source_labels": [
+        "Research paper",
+        "Author-deposited data and filtered VCF",
+        "Project archive · PRJEB39599"
+      ],
+      "taxon": "Pungitius pungitius · P. tymensis"
+    }
+  },
+  {
+    "id": "PRJNA1047030",
+    "common": "巴布亚企鹅",
+    "taxon": "Pygoscelis papua",
+    "group": "鸟类",
+    "title": "南极半岛巴布亚企鹅群体测序",
+    "summary": "研究采样覆盖南极半岛西部和南设得兰群岛，共 129 个个体。",
+    "count": 129,
+    "unit": "个体",
+    "design": [
+      "群体"
+    ],
+    "vcf": false,
+    "reference": "",
+    "depth": "",
+    "sources": [
+      [
+        "项目归档 · PRJNA1047030",
+        "https://www.ebi.ac.uk/ena/browser/view/PRJNA1047030"
+      ]
+    ],
+    "aliases": "Gentoo penguin",
+    "archive_ids": [
+      "PRJNA1047030"
+    ],
+    "runs": 257,
+    "biosamples": 129,
+    "variant_files": 0,
+    "en": {
+      "common": "Gentoo penguin",
+      "title": "Gentoo penguin genomes from the Antarctic Peninsula",
+      "summary": "The researchers sampled 129 penguins from the western Antarctic Peninsula and the South Shetland Islands.",
+      "unit": "individuals",
+      "reference": "",
+      "depth": "",
+      "source_labels": [
+        "Project archive · PRJNA1047030"
+      ],
+      "taxon": "Pygoscelis papua"
+    }
+  },
+  {
+    "id": "PRJEB14685",
+    "common": "绵羊",
+    "taxon": "Ovis aries",
+    "group": "哺乳类",
+    "title": "Sheep Genomes 首批变异集",
+    "summary": "同一批样本提供原始联合调用和高质量过滤两个版本，可分别按染色体下载。",
+    "count": 453,
+    "unit": "VCF 样本",
+    "design": [
+      "群体"
+    ],
+    "vcf": true,
+    "reference": "Oar_v3.1",
+    "depth": "",
+    "sources": [
+      [
+        "项目归档 · PRJEB14685",
+        "https://www.ebi.ac.uk/ena/browser/view/PRJEB14685"
+      ],
+      [
+        "项目归档 · PRJEB14684",
+        "https://www.ebi.ac.uk/ena/browser/view/PRJEB14684"
+      ],
+      [
+        "VCF 归档记录 · ERZ324578",
+        "https://www.ebi.ac.uk/ena/browser/view/ERZ324578"
+      ]
+    ],
+    "aliases": "sheep",
+    "archive_ids": [
+      "PRJEB14685",
+      "PRJEB14684"
+    ],
+    "runs": 0,
+    "biosamples": 0,
+    "variant_files": 56,
+    "en": {
+      "common": "Sheep",
+      "title": "Sheep Genomes Run 1 variant calls",
+      "summary": "The project released both the raw joint calls and the high-quality filtered calls for the same samples. Both sets are available by chromosome.",
+      "unit": "VCF samples",
+      "reference": "Oar_v3.1",
+      "depth": "",
+      "source_labels": [
+        "Project archive · PRJEB14685",
+        "Project archive · PRJEB14684",
+        "VCF archive record · ERZ324578"
+      ],
+      "taxon": "Ovis aries"
+    }
+  },
+  {
+    "id": "PRJEB22989",
+    "common": "非洲绿猴属",
+    "taxon": "Chlorocebus spp.",
+    "group": "哺乳类",
+    "title": "非洲与加勒比绿猴群体变异",
+    "summary": "研究发布 163 个样本的注释变异。主提交包含未定相 SNP 与 indel，作者另提供填充并定相的 SNP 文件。",
+    "count": 163,
+    "unit": "个体",
+    "design": [
+      "群体"
+    ],
+    "vcf": true,
+    "reference": "Chlorocebus_sabeus 1.1",
+    "depth": "",
+    "sources": [
+      [
+        "定相 SNP 提交 · ERZ479236",
+        "https://www.ebi.ac.uk/ena/browser/view/ERZ479236"
+      ],
+      [
+        "项目归档 · PRJEB22989",
+        "https://www.ebi.ac.uk/ena/browser/view/PRJEB22989"
+      ],
+      [
+        "VCF 归档记录 · ERZ479239",
+        "https://www.ebi.ac.uk/ena/browser/view/ERZ479239"
+      ]
+    ],
+    "aliases": "vervet green monkey 长尾猴",
+    "archive_ids": [
+      "PRJEB22989"
+    ],
+    "runs": 0,
+    "biosamples": 0,
+    "variant_files": 30,
+    "en": {
+      "common": "Vervet monkeys",
+      "title": "Genomic variation in African and Caribbean vervet monkeys",
+      "summary": "The study released annotated variants for 163 samples. The main submission contains unphased SNPs and indels. A separate submission provides imputed and phased SNPs.",
+      "unit": "individuals",
+      "reference": "Chlorocebus_sabeus 1.1",
+      "depth": "",
+      "source_labels": [
+        "Phased SNP archive · ERZ479236",
+        "Project archive · PRJEB22989",
+        "VCF archive record · ERZ479239"
+      ],
+      "taxon": "Chlorocebus spp."
+    }
+  },
+  {
+    "id": "PRJNA942350",
+    "common": "鸡",
+    "taxon": "Gallus gallus",
+    "group": "鸟类",
+    "title": "中国地方鸡遗传多样性",
+    "summary": "全基因组研究覆盖 13 个地方品种、209 个体。作者分别归档了原始测序以及 SNP 和 indel 调用结果。",
+    "count": 209,
+    "unit": "个体",
+    "design": [
+      "群体"
+    ],
+    "vcf": true,
+    "reference": "",
+    "depth": "",
+    "sources": [
+      [
+        "原始研究或发布页",
+        "https://doi.org/10.1038/s41597-024-02995-w"
+      ],
+      [
+        "项目归档 · PRJNA942350",
+        "https://www.ebi.ac.uk/ena/browser/view/PRJNA942350"
+      ],
+      [
+        "项目归档 · PRJEB71347",
+        "https://www.ebi.ac.uk/ena/browser/view/PRJEB71347"
+      ]
+    ],
+    "aliases": "chicken",
+    "archive_ids": [
+      "PRJNA942350",
+      "PRJEB71347"
+    ],
+    "runs": 209,
+    "biosamples": 209,
+    "variant_files": 1,
+    "en": {
+      "common": "Chicken",
+      "title": "Genetic diversity of indigenous Chinese chickens",
+      "summary": "This whole-genome study covers 209 chickens from 13 indigenous breeds. The authors archived the raw reads separately from the SNP and indel calls.",
+      "unit": "individuals",
+      "reference": "",
+      "depth": "",
+      "source_labels": [
+        "Research paper",
+        "Project archive · PRJNA942350",
+        "Project archive · PRJEB71347"
+      ],
+      "taxon": "Gallus gallus"
+    }
+  },
+  {
+    "id": "PRJEB39275",
+    "common": "鸡",
+    "taxon": "Gallus gallus",
+    "group": "鸟类",
+    "title": "埃塞俄比亚地方鸡群体重测序",
+    "summary": "在 24 个地方群体中采集 234 个体，作者公开了原始测序和基因型 VCF。",
+    "count": 234,
+    "unit": "个体",
+    "design": [
+      "群体"
+    ],
+    "vcf": true,
+    "reference": "GRCg6a",
+    "depth": "57×，论文报告的平均覆盖度",
+    "sources": [
+      [
+        "原始研究或发布页",
+        "https://doi.org/10.1038/s41597-022-01129-4"
+      ],
+      [
+        "项目归档 · PRJEB39275",
+        "https://www.ebi.ac.uk/ena/browser/view/PRJEB39275"
+      ],
+      [
+        "项目归档 · PRJEB46494",
+        "https://www.ebi.ac.uk/ena/browser/view/PRJEB46494"
+      ]
+    ],
+    "aliases": "chicken Ethiopia",
+    "archive_ids": [
+      "PRJEB39275",
+      "PRJEB46494"
+    ],
+    "runs": 273,
+    "biosamples": 234,
+    "variant_files": 1,
+    "en": {
+      "common": "Chicken",
+      "title": "Resequencing of Ethiopian indigenous chickens",
+      "summary": "The researchers sampled 234 chickens from 24 local populations and released the raw reads and a genotype VCF.",
+      "unit": "individuals",
+      "reference": "GRCg6a",
+      "depth": "57× mean coverage (study estimate)",
+      "source_labels": [
+        "Research paper",
+        "Project archive · PRJEB39275",
+        "Project archive · PRJEB46494"
+      ],
+      "taxon": "Gallus gallus"
+    }
+  },
+  {
+    "id": "GVM000479",
+    "common": "猪",
+    "taxon": "Sus scrofa",
+    "group": "哺乳类",
+    "title": "多品种猪定相参考面板",
+    "summary": "研究分析 43 个品种的 1,096 份基因组，其中包括 44 个亲子三联体和 135 个二联体。937 个体进入定相参考面板。",
+    "count": 937,
+    "unit": "面板个体",
+    "design": [
+      "家系",
+      "群体"
+    ],
+    "vcf": true,
+    "reference": "",
+    "depth": "17.1×，研究中 1,096 份基因组的平均覆盖度",
+    "sources": [
+      [
+        "原始研究或发布页",
+        "https://doi.org/10.1038/s41467-023-40434-3"
+      ],
+      [
+        "GVM 变异归档",
+        "https://ngdc.cncb.ac.cn/gvm/getProjectDetail?project=GVM000479"
+      ]
+    ],
+    "aliases": "pig swine PRJCA014400",
+    "archive_ids": [],
+    "runs": 0,
+    "biosamples": 0,
+    "variant_files": 0,
+    "en": {
+      "common": "Pig",
+      "title": "Phased reference panel for multiple pig breeds",
+      "summary": "The study analyzed 1,096 genomes from 43 breeds and included 44 parent–offspring trios and 135 duos. The phased reference panel contains 937 individuals.",
+      "unit": "panel individuals",
+      "reference": "",
+      "depth": "17.1× mean coverage across the 1,096 genomes in the study",
+      "source_labels": [
+        "Research paper",
+        "GVM variant archive"
+      ],
+      "taxon": "Sus scrofa"
+    }
+  },
+  {
+    "id": "GVM000310",
+    "common": "猪",
+    "taxon": "Sus scrofa",
+    "group": "哺乳类",
+    "title": "F6 / F7 猪群体测序",
+    "summary": "群体数据覆盖 F6 与 F7 世代。GVM 提供 1,504 个样本的逐样本 VCF 文件。",
+    "count": 1504,
+    "unit": "样本",
+    "design": [
+      "群体"
+    ],
+    "vcf": true,
+    "reference": "Sscrofa11.1",
+    "depth": "",
+    "sources": [
+      [
+        "原始研究或发布页",
+        "https://ngdc.cncb.ac.cn/gvm/getProjectDetail?project=GVM000310"
+      ]
+    ],
+    "aliases": "pig swine PRJCA008454",
+    "archive_ids": [],
+    "runs": 0,
+    "biosamples": 0,
+    "variant_files": 0,
+    "en": {
+      "common": "Pig",
+      "title": "Genomes from the F6 and F7 generations of a pig population",
+      "summary": "The dataset covers the F6 and F7 generations. Genome Variation Map provides individual VCF files for 1,504 samples.",
+      "unit": "samples",
+      "reference": "Sscrofa11.1",
+      "depth": "",
+      "source_labels": [
+        "Genome Variation Map"
+      ],
+      "taxon": "Sus scrofa"
+    }
+  },
+  {
+    "id": "Ce-20231213",
+    "common": "秀丽隐杆线虫",
+    "taxon": "Caenorhabditis elegans",
+    "group": "线虫",
+    "title": "CaeNDR 野生品系发布集",
+    "summary": "2023-12-13 版本收录 1,617 个全基因组测序品系。下载页分别列出全品系和 611 个 isotype 子集的软过滤、硬过滤 VCF。",
+    "count": 1617,
+    "unit": "测序品系",
+    "design": [
+      "群体"
+    ],
+    "vcf": true,
+    "reference": "WS283",
+    "depth": "",
+    "sources": [
+      [
+        "原始研究或发布页",
+        "https://caendr.org/data/data-release/c-elegans/20231213"
+      ]
+    ],
+    "aliases": "C. elegans worm",
+    "archive_ids": [],
+    "runs": 0,
+    "biosamples": 0,
+    "variant_files": 0,
+    "en": {
+      "common": "C. elegans",
+      "title": "CaeNDR wild strains of C. elegans",
+      "summary": "The December 13, 2023 release contains 1,617 whole-genome-sequenced strains. The download page offers soft-filtered and hard-filtered VCFs for the full set and for a subset of 611 isotypes.",
+      "unit": "sequenced strains",
+      "reference": "WS283",
+      "depth": "",
+      "source_labels": [
+        "Data release"
+      ],
+      "taxon": "Caenorhabditis elegans"
+    }
+  },
+  {
+    "id": "Cb-20240129",
+    "common": "布氏隐杆线虫",
+    "taxon": "Caenorhabditis briggsae",
+    "group": "线虫",
+    "title": "CaeNDR 布氏隐杆线虫野生品系",
+    "summary": "2024-01-29 版本收录 1,785 个测序品系。发布页同时提供 641 个 isotype 的变异子集。",
+    "count": 1785,
+    "unit": "测序品系",
+    "design": [
+      "群体"
+    ],
+    "vcf": true,
+    "reference": "QX1410_nanopore Feb2020",
+    "depth": "",
+    "sources": [
+      [
+        "原始研究或发布页",
+        "https://caendr.org/data/data-release/c-briggsae/20240129"
+      ]
+    ],
+    "aliases": "C. briggsae worm",
+    "archive_ids": [],
+    "runs": 0,
+    "biosamples": 0,
+    "variant_files": 0,
+    "en": {
+      "common": "C. briggsae",
+      "title": "CaeNDR wild strains of C. briggsae",
+      "summary": "The January 29, 2024 release contains 1,785 sequenced strains. It also provides a variant subset for 641 isotypes.",
+      "unit": "sequenced strains",
+      "reference": "QX1410_nanopore Feb2020",
+      "depth": "",
+      "source_labels": [
+        "Data release"
+      ],
+      "taxon": "Caenorhabditis briggsae"
+    }
+  },
+  {
+    "id": "CNP0002456",
+    "common": "家蚕与野桑蚕",
+    "taxon": "Bombyx mori · B. mandarina",
+    "group": "昆虫",
+    "title": "家蚕与野蚕泛基因组",
+    "summary": "联合变异分析整合了 1,078 份新样本及 4 份既有野蚕基因组。论文数据声明区分原始读段、组装和变异文件。",
+    "count": 1082,
+    "unit": "基因组",
+    "design": [
+      "群体"
+    ],
+    "vcf": true,
+    "reference": "",
+    "depth": "",
+    "sources": [
+      [
+        "原始研究或发布页",
+        "https://doi.org/10.1038/s41467-022-33366-x"
+      ],
+      [
+        "CNSA 组装与变异项目",
+        "https://db.cngb.org/search/project/CNP0002456/"
+      ],
+      [
+        "原始测序 · CRA007878",
+        "https://ngdc.cncb.ac.cn/gsa/browse/CRA007878"
+      ]
+    ],
+    "aliases": "silkworm",
+    "archive_ids": [],
+    "runs": 0,
+    "biosamples": 0,
+    "variant_files": 0,
+    "en": {
+      "common": "Domestic and wild silkworms",
+      "title": "Domestic and wild silkworm pangenome",
+      "summary": "The joint variant analysis combined 1,078 new samples with four previously available wild silkworm genomes. The paper lists separate deposits for raw reads, assemblies and variant files.",
+      "unit": "genomes",
+      "reference": "",
+      "depth": "",
+      "source_labels": [
+        "Research paper",
+        "CNSA assembly and variant project",
+        "Raw reads · CRA007878"
+      ],
+      "taxon": "Bombyx mori · B. mandarina"
+    }
+  },
+  {
+    "id": "CgiVN1-SMGV",
+    "common": "太平洋牡蛎",
+    "taxon": "Crassostrea gigas",
+    "group": "软体动物",
+    "title": "牡蛎参考组装与群体变异",
+    "summary": "495 只牡蛎参与群体重测序。论文的 SMGV 补充 VCF 提供变异位点，文件表头没有逐个体基因型列。",
+    "count": 495,
+    "unit": "个体",
+    "design": [
+      "群体"
+    ],
+    "vcf": true,
+    "reference": "CgiVN1",
+    "depth": "",
+    "sources": [
+      [
+        "原始研究或发布页",
+        "https://doi.org/10.1111/1755-0998.13368"
+      ]
+    ],
+    "aliases": "Pacific oyster Magallana gigas",
+    "archive_ids": [],
+    "runs": 0,
+    "biosamples": 0,
+    "variant_files": 0,
+    "en": {
+      "common": "Pacific oyster",
+      "title": "Pacific oyster reference assembly and population variation",
+      "summary": "The resequencing study included 495 oysters. The supplementary SMGV VCF lists variant sites without per-individual genotype columns.",
+      "unit": "individuals",
+      "reference": "CgiVN1",
+      "depth": "",
+      "source_labels": [
+        "Research paper"
+      ],
+      "taxon": "Crassostrea gigas"
+    }
+  },
+  {
+    "id": "mGAP-v2.5",
+    "common": "恒河猴",
+    "taxon": "Macaca mulatta",
+    "group": "哺乳类",
+    "title": "mGAP 恒河猴变异资源",
+    "summary": "mGAP 汇集恒河猴群体中的遗传变异，公开项目提供变异版本和样本说明。v2.5 VCF 表头包含 3,562 个样本列。",
+    "count": 3562,
+    "unit": "VCF 样本列",
+    "design": [
+      "群体"
+    ],
+    "vcf": true,
+    "reference": "Mmul_10",
+    "depth": "",
+    "sources": [
+      [
+        "原始研究或发布页",
+        "https://mgap.ohsu.edu/"
+      ],
+      [
+        "变异发布页",
+        "https://mgap.ohsu.edu/project/mGAP/begin.view?pageId=variants"
+      ]
+    ],
+    "aliases": "rhesus macaque",
+    "archive_ids": [],
+    "runs": 0,
+    "biosamples": 0,
+    "variant_files": 0,
+    "en": {
+      "common": "Rhesus macaque",
+      "title": "mGAP rhesus macaque variation resource",
+      "summary": "mGAP catalogs genetic variation in rhesus macaque populations and documents its samples and releases. The v2.5 VCF header contains 3,562 sample columns.",
+      "unit": "VCF sample columns",
+      "reference": "Mmul_10",
+      "depth": "",
+      "source_labels": [
+        "Data release",
+        "Variant releases"
+      ],
+      "taxon": "Macaca mulatta"
+    }
+  },
+  {
+    "id": "Zenodo-5592452",
+    "common": "西方蜜蜂",
+    "taxon": "Apis mellifera",
+    "group": "昆虫",
+    "title": "西欧蜜蜂群体结构与单倍型",
+    "summary": "研究团队通过 Zenodo 发布基因型文件；联合 SNP 面板表头含 870 个样本列。",
+    "count": 870,
+    "unit": "VCF 样本列",
+    "design": [
+      "群体"
+    ],
+    "vcf": true,
+    "reference": "Amel_HAv3.1",
+    "depth": "",
+    "sources": [
+      [
+        "原始研究或发布页",
+        "https://zenodo.org/records/5592452"
+      ]
+    ],
+    "aliases": "honey bee",
+    "archive_ids": [],
+    "runs": 0,
+    "biosamples": 0,
+    "variant_files": 0,
+    "en": {
+      "common": "Western honey bee",
+      "title": "Population structure and haplotypes of western European honey bees",
+      "summary": "The authors released their genotype files on Zenodo. The joint SNP panel contains 870 sample columns.",
+      "unit": "VCF sample columns",
+      "reference": "Amel_HAv3.1",
+      "depth": "",
+      "source_labels": [
+        "Zenodo data release"
+      ],
+      "taxon": "Apis mellifera"
+    }
+  },
+  {
+    "id": "PRJEB34225",
+    "common": "大西洋鲑",
+    "taxon": "Salmo salar",
+    "group": "鱼类",
+    "title": "北美养殖大西洋鲑 SNP 发现",
+    "summary": "来自三个养殖群体的 80 个体接受全基因组重测序，研究者据此构建供芯片设计等研究使用的 SNP 数据集。",
+    "count": 80,
+    "unit": "个体",
+    "design": [
+      "群体"
+    ],
+    "vcf": true,
+    "reference": "",
+    "depth": "",
+    "sources": [
+      [
+        "项目归档 · PRJEB34225",
+        "https://www.ebi.ac.uk/ena/browser/view/PRJEB34225"
+      ]
+    ],
+    "aliases": "Atlantic salmon",
+    "archive_ids": [
+      "PRJEB34225"
+    ],
+    "runs": 0,
+    "biosamples": 0,
+    "variant_files": 3,
+    "en": {
+      "common": "Atlantic salmon",
+      "title": "SNP discovery in farmed North American Atlantic salmon",
+      "summary": "Researchers resequenced 80 individuals from three aquaculture stocks. They used the sequences to identify SNPs for applications including genotyping array design.",
+      "unit": "individuals",
+      "reference": "",
+      "depth": "",
+      "source_labels": [
+        "Project archive · PRJEB34225"
+      ],
+      "taxon": "Salmo salar"
+    }
+  },
+  {
+    "id": "PRJDB11027",
+    "common": "小家鼠",
+    "taxon": "Mus musculus",
+    "group": "哺乳类",
+    "title": "欧亚野生小家鼠基因组",
+    "summary": "项目覆盖欧亚大陆和岛屿的野生小家鼠，以东亚和东南亚的遗传多样性为重点。",
+    "count": 98,
+    "unit": "归档 Run",
+    "design": [
+      "群体"
+    ],
+    "vcf": false,
+    "reference": "",
+    "depth": "",
+    "sources": [
+      [
+        "项目归档 · PRJDB11027",
+        "https://www.ebi.ac.uk/ena/browser/view/PRJDB11027"
+      ]
+    ],
+    "aliases": "house mouse",
+    "archive_ids": [
+      "PRJDB11027"
+    ],
+    "runs": 98,
+    "biosamples": 98,
+    "variant_files": 0,
+    "en": {
+      "common": "House mouse",
+      "title": "Wild house mouse genomes across Eurasia",
+      "summary": "The project sampled wild mice from mainland Eurasia and nearby islands, with a focus on genetic diversity in East and Southeast Asia.",
+      "unit": "archived runs",
+      "reference": "",
+      "depth": "",
+      "source_labels": [
+        "Project archive · PRJDB11027"
+      ],
+      "taxon": "Mus musculus"
+    }
+  },
+  {
+    "id": "PRJDB11969",
+    "common": "小家鼠",
+    "taxon": "Mus musculus",
+    "group": "哺乳类",
+    "title": "马达加斯加小家鼠群体历史",
+    "summary": "五只野生小家鼠的全基因组序列用于研究岛上种群的来源与迁移历史。",
+    "count": 5,
+    "unit": "个体",
+    "design": [
+      "群体"
+    ],
+    "vcf": false,
+    "reference": "",
+    "depth": "",
+    "sources": [
+      [
+        "项目归档 · PRJDB11969",
+        "https://www.ebi.ac.uk/ena/browser/view/PRJDB11969"
+      ]
+    ],
+    "aliases": "house mouse",
+    "archive_ids": [
+      "PRJDB11969"
+    ],
+    "runs": 5,
+    "biosamples": 5,
+    "variant_files": 0,
+    "en": {
+      "common": "House mouse",
+      "title": "Population history of house mice in Madagascar",
+      "summary": "The study used whole-genome sequences from five wild mice to investigate the origins and migration history of the island population.",
+      "unit": "individuals",
+      "reference": "",
+      "depth": "",
+      "source_labels": [
+        "Project archive · PRJDB11969"
+      ],
+      "taxon": "Mus musculus"
+    }
+  },
+  {
+    "id": "PRJEB11742",
+    "common": "小家鼠与穗鼠",
+    "taxon": "Mus musculus · M. spretus",
+    "group": "哺乳类",
+    "title": "野生小家鼠及近缘种资源",
+    "summary": "项目收录野生鼠群体的测序材料，归档涉及小家鼠和近缘种 Mus spretus。 Harr 等在联合分析中使用了这些测序项目的部分材料，并另行发布了联合 VCF。",
+    "count": 24,
+    "unit": "归档 Run",
+    "design": [
+      "群体"
+    ],
+    "vcf": true,
+    "reference": "",
+    "depth": "",
+    "sources": [
+      [
+        "项目归档 · PRJEB11742",
+        "https://www.ebi.ac.uk/ena/browser/view/PRJEB11742"
+      ],
+      [
+        "野生小鼠研究论文",
+        "https://doi.org/10.1038/sdata.2016.75"
+      ],
+      [
+        "联合 VCF 与样本对应说明",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC5020872/#s3"
+      ],
+      [
+        "作者数据目录",
+        "https://wwwuser.gwdg.de/~evolbio/evolgen/wildmouse/"
+      ]
+    ],
+    "aliases": "house mouse",
+    "archive_ids": [
+      "PRJEB11742"
+    ],
+    "runs": 24,
+    "biosamples": 24,
+    "variant_files": 0,
+    "en": {
+      "common": "House mouse and Algerian mouse",
+      "title": "Genomic resources for wild house mice and Mus spretus",
+      "summary": "The archive contains sequencing reads from wild house mice and their relative Mus spretus. Harr and colleagues included some of these samples in a joint analysis and released the resulting VCF separately.",
+      "unit": "archived runs",
+      "reference": "",
+      "depth": "",
+      "source_labels": [
+        "Project archive · PRJEB11742",
+        "Wild mouse study",
+        "Joint VCF and sample information",
+        "Authors’ data directory"
+      ],
+      "taxon": "Mus musculus · M. spretus"
+    }
+  },
+  {
+    "id": "PRJEB2176",
+    "common": "小家鼠及近缘种",
+    "taxon": "Mus musculus · M. famulus",
+    "group": "哺乳类",
+    "title": "野生来源小鼠的基因组多样性",
+    "summary": "项目围绕 castaneus 来源小鼠的群体遗传学，同时包含近缘种测序。 Harr 等在联合分析中使用了这些测序项目的部分材料，并另行发布了联合 VCF。",
+    "count": 178,
+    "unit": "归档 Run",
+    "design": [
+      "群体"
+    ],
+    "vcf": true,
+    "reference": "",
+    "depth": "",
+    "sources": [
+      [
+        "项目归档 · PRJEB2176",
+        "https://www.ebi.ac.uk/ena/browser/view/PRJEB2176"
+      ],
+      [
+        "联合 VCF 与样本对应说明",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC5020872/#s3"
+      ],
+      [
+        "作者数据目录",
+        "https://wwwuser.gwdg.de/~evolbio/evolgen/wildmouse/"
+      ]
+    ],
+    "aliases": "house mouse",
+    "archive_ids": [
+      "PRJEB2176"
+    ],
+    "runs": 178,
+    "biosamples": 33,
+    "variant_files": 0,
+    "en": {
+      "common": "House mouse and related species",
+      "title": "Genomic diversity of wild-derived mice",
+      "summary": "The project focused on the population genetics of mice of castaneus origin and included sequencing of a related species. Harr and colleagues used some of these samples in a joint analysis and released the resulting VCF separately.",
+      "unit": "archived runs",
+      "reference": "",
+      "depth": "",
+      "source_labels": [
+        "Project archive · PRJEB2176",
+        "Joint VCF and sample information",
+        "Authors’ data directory"
+      ],
+      "taxon": "Mus musculus · M. famulus"
+    }
+  },
+  {
+    "id": "PRJEB2922",
+    "common": "野生大鼠",
+    "taxon": "Rattus norvegicus · R. rattus",
+    "group": "哺乳类",
+    "title": "野生大鼠种群多样性",
+    "summary": "归档包含褐家鼠和黑家鼠测序，用于研究遗传多样性及群体结构。",
+    "count": 170,
+    "unit": "归档 Run",
+    "design": [
+      "群体"
+    ],
+    "vcf": false,
+    "reference": "",
+    "depth": "",
+    "sources": [
+      [
+        "项目归档 · PRJEB2922",
+        "https://www.ebi.ac.uk/ena/browser/view/PRJEB2922"
+      ]
+    ],
+    "aliases": "",
+    "archive_ids": [
+      "PRJEB2922"
+    ],
+    "runs": 170,
+    "biosamples": 13,
+    "variant_files": 0,
+    "en": {
+      "common": "Brown rat and black rat",
+      "title": "Population diversity in wild rats",
+      "summary": "The archive contains brown rat and black rat sequences collected to study genetic diversity and population structure.",
+      "unit": "archived runs",
+      "reference": "",
+      "depth": "",
+      "source_labels": [
+        "Project archive · PRJEB2922"
+      ],
+      "taxon": "Rattus norvegicus · R. rattus"
+    }
+  },
+  {
+    "id": "PRJEB9450",
+    "common": "小家鼠",
+    "taxon": "Mus musculus",
+    "group": "哺乳类",
+    "title": "野生小家鼠拷贝数变异",
+    "summary": "对四个野生群体的全基因组重测序数据进行读深分析，研究基因拷贝数差异。 Harr 等在联合分析中使用了这些测序项目的部分材料，并另行发布了联合 VCF。",
+    "count": 27,
+    "unit": "归档 Run",
+    "design": [
+      "群体"
+    ],
+    "vcf": true,
+    "reference": "",
+    "depth": "",
+    "sources": [
+      [
+        "项目归档 · PRJEB9450",
+        "https://www.ebi.ac.uk/ena/browser/view/PRJEB9450"
+      ],
+      [
+        "联合 VCF 与样本对应说明",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC5020872/#s3"
+      ],
+      [
+        "作者数据目录",
+        "https://wwwuser.gwdg.de/~evolbio/evolgen/wildmouse/"
+      ]
+    ],
+    "aliases": "house mouse",
+    "archive_ids": [
+      "PRJEB9450"
+    ],
+    "runs": 27,
+    "biosamples": 27,
+    "variant_files": 0,
+    "en": {
+      "common": "House mouse",
+      "title": "Copy-number variation in wild house mice",
+      "summary": "The researchers used whole-genome read depth to study gene copy-number differences across four wild populations. Harr and colleagues included some of these samples in a joint analysis and released the resulting VCF separately.",
+      "unit": "archived runs",
+      "reference": "",
+      "depth": "",
+      "source_labels": [
+        "Project archive · PRJEB9450",
+        "Joint VCF and sample information",
+        "Authors’ data directory"
+      ],
+      "taxon": "Mus musculus"
+    }
+  },
+  {
+    "id": "PRJNA293011",
+    "common": "褐家鼠",
+    "taxon": "Rattus norvegicus",
+    "group": "哺乳类",
+    "title": "中国南北方大鼠基因组与甲基化",
+    "summary": "档案包含全基因组测序与亚硫酸氢盐测序，可在运行清单中按建库类型区分。",
+    "count": 20,
+    "unit": "归档 Run",
+    "design": [
+      "群体"
+    ],
+    "vcf": false,
+    "reference": "",
+    "depth": "",
+    "sources": [
+      [
+        "项目归档 · PRJNA293011",
+        "https://www.ebi.ac.uk/ena/browser/view/PRJNA293011"
+      ]
+    ],
+    "aliases": "",
+    "archive_ids": [
+      "PRJNA293011"
+    ],
+    "runs": 20,
+    "biosamples": 18,
+    "variant_files": 0,
+    "en": {
+      "common": "Brown rat",
+      "title": "Genomes and DNA methylation in rats from northern and southern China",
+      "summary": "The archive contains whole-genome and bisulfite sequencing data. The run manifest identifies the library strategy for each run.",
+      "unit": "archived runs",
+      "reference": "",
+      "depth": "",
+      "source_labels": [
+        "Project archive · PRJNA293011"
+      ],
+      "taxon": "Rattus norvegicus"
+    }
+  },
+  {
+    "id": "PRJNA344413",
+    "common": "大鼠",
+    "taxon": "Rattus norvegicus · R. rattus",
+    "group": "哺乳类",
+    "title": "褐家鼠的全球谱系地理",
+    "summary": "研究褐家鼠的地理扩张和群体结构；归档中同时包含黑家鼠与不同建库策略。",
+    "count": 454,
+    "unit": "归档 Run",
+    "design": [
+      "群体"
+    ],
+    "vcf": false,
+    "reference": "",
+    "depth": "",
+    "sources": [
+      [
+        "项目归档 · PRJNA344413",
+        "https://www.ebi.ac.uk/ena/browser/view/PRJNA344413"
+      ]
+    ],
+    "aliases": "",
+    "archive_ids": [
+      "PRJNA344413"
+    ],
+    "runs": 454,
+    "biosamples": 447,
+    "variant_files": 0,
+    "en": {
+      "common": "Brown rat and black rat",
+      "title": "Global phylogeography of the brown rat",
+      "summary": "The study examined the geographic expansion and population structure of brown rats. The archive also includes black rat samples and more than one library strategy.",
+      "unit": "archived runs",
+      "reference": "",
+      "depth": "",
+      "source_labels": [
+        "Project archive · PRJNA344413"
+      ],
+      "taxon": "Rattus norvegicus · R. rattus"
+    }
+  },
+  {
+    "id": "PRJNA487943",
+    "common": "褐家鼠",
+    "taxon": "Rattus norvegicus",
+    "group": "哺乳类",
+    "title": "大鼠异质种群的奠基材料",
+    "summary": "八个奠基材料接受 Illumina 全基因组测序，归档描述给出的每样本覆盖度约为 30×。",
+    "count": 8,
+    "unit": "个体",
+    "design": [
+      "群体"
+    ],
+    "vcf": false,
+    "reference": "",
+    "depth": "约 30× / 样本（项目说明）",
+    "sources": [
+      [
+        "项目归档 · PRJNA487943",
+        "https://www.ebi.ac.uk/ena/browser/view/PRJNA487943"
+      ]
+    ],
+    "aliases": "",
+    "archive_ids": [
+      "PRJNA487943"
+    ],
+    "runs": 16,
+    "biosamples": 8,
+    "variant_files": 0,
+    "en": {
+      "common": "Brown rat",
+      "title": "Founder genomes of a heterogeneous stock rat population",
+      "summary": "The project used Illumina whole-genome sequencing for eight founders and reports approximately 30× coverage per sample.",
+      "unit": "individuals",
+      "reference": "",
+      "depth": "Approximately 30× per sample (project estimate)",
+      "source_labels": [
+        "Project archive · PRJNA487943"
+      ],
+      "taxon": "Rattus norvegicus"
+    }
+  },
+  {
+    "id": "PRJNA587779",
+    "common": "西欧小家鼠",
+    "taxon": "Mus musculus domesticus",
+    "group": "哺乳类",
+    "title": "戈夫岛野生小家鼠基因组",
+    "summary": "对 16 只野生捕获的小鼠进行测序，用于推断种群历史、等位基因频率和选择信号。",
+    "count": 16,
+    "unit": "个体",
+    "design": [
+      "群体"
+    ],
+    "vcf": false,
+    "reference": "",
+    "depth": "",
+    "sources": [
+      [
+        "项目归档 · PRJNA587779",
+        "https://www.ebi.ac.uk/ena/browser/view/PRJNA587779"
+      ]
+    ],
+    "aliases": "house mouse",
+    "archive_ids": [
+      "PRJNA587779"
+    ],
+    "runs": 32,
+    "biosamples": 16,
+    "variant_files": 0,
+    "en": {
+      "common": "Western house mouse",
+      "title": "Genomes of wild Gough Island mice",
+      "summary": "The researchers sequenced 16 wild-caught mice to infer population history, document allele frequencies and identify signals of selection.",
+      "unit": "individuals",
+      "reference": "",
+      "depth": "",
+      "source_labels": [
+        "Project archive · PRJNA587779"
+      ],
+      "taxon": "Mus musculus domesticus"
+    }
+  },
+  {
+    "id": "PRJNA678815",
+    "common": "鸿雁与灰雁",
+    "taxon": "Anser cygnoides · A. anser",
+    "group": "鸟类",
+    "title": "鹅的驯化与种群基因组",
+    "summary": "研究整合 994 份鹅基因组重测序数据，分析家鹅的来源和不同品种的遗传关系。",
+    "count": 994,
+    "unit": "个体",
+    "design": [
+      "群体"
+    ],
+    "vcf": false,
+    "reference": "",
+    "depth": "",
+    "sources": [
+      [
+        "项目归档 · PRJNA678815",
+        "https://www.ebi.ac.uk/ena/browser/view/PRJNA678815"
+      ]
+    ],
+    "aliases": "",
+    "archive_ids": [
+      "PRJNA678815"
+    ],
+    "runs": 839,
+    "biosamples": 839,
+    "variant_files": 0,
+    "en": {
+      "common": "Swan goose and greylag goose",
+      "title": "Domestication and population genomics of geese",
+      "summary": "The study combined resequencing data for 994 geese to investigate the origins of domestic geese and genetic relationships among breeds.",
+      "unit": "individuals",
+      "reference": "",
+      "depth": "",
+      "source_labels": [
+        "Project archive · PRJNA678815"
+      ],
+      "taxon": "Anser cygnoides · A. anser"
+    }
+  },
+  {
+    "id": "PRJNA700797",
+    "common": "西方仓鸮",
+    "taxon": "Tyto alba",
+    "group": "鸟类",
+    "title": "不列颠群岛仓鸮群体基因组",
+    "summary": "项目提供不列颠群岛仓鸮群体基因组研究使用的原始 Illumina 测序读段。",
+    "count": 63,
+    "unit": "归档 Run",
+    "design": [
+      "群体"
+    ],
+    "vcf": false,
+    "reference": "",
+    "depth": "",
+    "sources": [
+      [
+        "项目归档 · PRJNA700797",
+        "https://www.ebi.ac.uk/ena/browser/view/PRJNA700797"
+      ]
+    ],
+    "aliases": "barn owl",
+    "archive_ids": [
+      "PRJNA700797"
+    ],
+    "runs": 63,
+    "biosamples": 63,
+    "variant_files": 0,
+    "en": {
+      "common": "Western barn owl",
+      "title": "Population genomics of barn owls in the British Isles",
+      "summary": "The project contains the raw Illumina reads used to study barn owl populations in the British Isles.",
+      "unit": "archived runs",
+      "reference": "",
+      "depth": "",
+      "source_labels": [
+        "Project archive · PRJNA700797"
+      ],
+      "taxon": "Tyto alba"
+    }
+  },
+  {
+    "id": "PRJNA727977",
+    "common": "西方仓鸮",
+    "taxon": "Tyto alba",
+    "group": "鸟类",
+    "title": "西古北界仓鸮群体基因组",
+    "summary": "该项目归档了西古北界仓鸮群体研究使用的原始测序数据。",
+    "count": 61,
+    "unit": "归档 Run",
+    "design": [
+      "群体"
+    ],
+    "vcf": false,
+    "reference": "",
+    "depth": "",
+    "sources": [
+      [
+        "项目归档 · PRJNA727977",
+        "https://www.ebi.ac.uk/ena/browser/view/PRJNA727977"
+      ]
+    ],
+    "aliases": "barn owl",
+    "archive_ids": [
+      "PRJNA727977"
+    ],
+    "runs": 61,
+    "biosamples": 61,
+    "variant_files": 0,
+    "en": {
+      "common": "Western barn owl",
+      "title": "Population genomics of barn owls in the Western Palearctic",
+      "summary": "The project archives the raw sequencing data used to study barn owl populations across the Western Palearctic.",
+      "unit": "archived runs",
+      "reference": "",
+      "depth": "",
+      "source_labels": [
+        "Project archive · PRJNA727977"
+      ],
+      "taxon": "Tyto alba"
+    }
+  },
+  {
+    "id": "PRJNA774943",
+    "common": "西方仓鸮",
+    "taxon": "Tyto alba",
+    "group": "鸟类",
+    "title": "加那利群岛仓鸮群体基因组",
+    "summary": "项目收录加那利群岛仓鸮的 Illumina 原始测序数据。",
+    "count": 14,
+    "unit": "归档 Run",
+    "design": [
+      "群体"
+    ],
+    "vcf": false,
+    "reference": "",
+    "depth": "",
+    "sources": [
+      [
+        "项目归档 · PRJNA774943",
+        "https://www.ebi.ac.uk/ena/browser/view/PRJNA774943"
+      ]
+    ],
+    "aliases": "barn owl",
+    "archive_ids": [
+      "PRJNA774943"
+    ],
+    "runs": 14,
+    "biosamples": 14,
+    "variant_files": 0,
+    "en": {
+      "common": "Western barn owl",
+      "title": "Population genomics of barn owls in the Canary Islands",
+      "summary": "The project contains raw Illumina sequencing reads from barn owls in the Canary Islands.",
+      "unit": "archived runs",
+      "reference": "",
+      "depth": "",
+      "source_labels": [
+        "Project archive · PRJNA774943"
+      ],
+      "taxon": "Tyto alba"
+    }
+  },
+  {
+    "id": "PRJNA851025",
+    "common": "小家鼠",
+    "taxon": "Mus musculus castaneus",
+    "group": "哺乳类",
+    "title": "巴基斯坦野生小家鼠分类研究",
+    "summary": "研究新测序了 14 只来自巴基斯坦的野生小家鼠，并与其他亚种的数据比较。",
+    "count": 14,
+    "unit": "个体",
+    "design": [
+      "群体"
+    ],
+    "vcf": false,
+    "reference": "",
+    "depth": "",
+    "sources": [
+      [
+        "原始研究或发布页",
+        "https://doi.org/10.1038/s41598-022-25420-x"
+      ],
+      [
+        "项目归档 · PRJNA851025",
+        "https://www.ebi.ac.uk/ena/browser/view/PRJNA851025"
+      ]
+    ],
+    "aliases": "house mouse",
+    "archive_ids": [
+      "PRJNA851025"
+    ],
+    "runs": 14,
+    "biosamples": 14,
+    "variant_files": 0,
+    "en": {
+      "common": "House mouse",
+      "title": "Taxonomic assessment of wild house mice from Pakistan",
+      "summary": "The researchers sequenced 14 wild mice from Pakistan and compared their genomes with data from other subspecies.",
+      "unit": "individuals",
+      "reference": "",
+      "depth": "",
+      "source_labels": [
+        "Research paper",
+        "Project archive · PRJNA851025"
+      ],
+      "taxon": "Mus musculus castaneus"
+    }
+  },
+  {
+    "id": "PRJNA925445",
+    "common": "西方仓鸮",
+    "taxon": "Tyto alba",
+    "group": "鸟类",
+    "title": "仓鸮羽色多态性的基因组基础",
+    "summary": "研究公开了用于分析羽色差异的原始 Illumina 测序读段。",
+    "count": 20,
+    "unit": "归档 Run",
+    "design": [
+      "群体"
+    ],
+    "vcf": false,
+    "reference": "",
+    "depth": "",
+    "sources": [
+      [
+        "项目归档 · PRJNA925445",
+        "https://www.ebi.ac.uk/ena/browser/view/PRJNA925445"
+      ]
+    ],
+    "aliases": "barn owl",
+    "archive_ids": [
+      "PRJNA925445"
+    ],
+    "runs": 20,
+    "biosamples": 20,
+    "variant_files": 0,
+    "en": {
+      "common": "Western barn owl",
+      "title": "Genomic basis of plumage color variation in barn owls",
+      "summary": "The researchers released the raw Illumina reads used to investigate differences in plumage color.",
+      "unit": "archived runs",
+      "reference": "",
+      "depth": "",
+      "source_labels": [
+        "Project archive · PRJNA925445"
+      ],
+      "taxon": "Tyto alba"
+    }
+  },
+  {
+    "id": "PRJEB65290",
+    "common": "雀形目鸟类",
+    "taxon": "Fringilla spp. 等",
+    "group": "鸟类",
+    "title": "马卡罗尼西亚群岛雀类分化",
+    "summary": "项目含多个分类单元，并同时使用全基因组和扩增子测序。运行清单标明每条记录的物种和建库策略。",
+    "count": 1247,
+    "unit": "归档 Run",
+    "design": [
+      "群体"
+    ],
+    "vcf": false,
+    "reference": "",
+    "depth": "",
+    "sources": [
+      [
+        "项目归档 · PRJEB65290",
+        "https://www.ebi.ac.uk/ena/browser/view/PRJEB65290"
+      ]
+    ],
+    "aliases": "",
+    "archive_ids": [
+      "PRJEB65290"
+    ],
+    "runs": 1247,
+    "biosamples": 479,
+    "variant_files": 0,
+    "en": {
+      "common": "Passerine birds",
+      "title": "Finch diversification in Macaronesia",
+      "summary": "The project includes whole-genome and amplicon sequencing across multiple taxa. The run manifest gives the species and library strategy for each record.",
+      "unit": "archived runs",
+      "reference": "",
+      "depth": "",
+      "source_labels": [
+        "Project archive · PRJEB65290"
+      ],
+      "taxon": "Fringilla spp. and other taxa"
+    }
+  },
+  {
+    "id": "PRJEB47918",
+    "common": "马",
+    "taxon": "Equus caballus",
+    "group": "哺乳类",
+    "title": "马全基因组遗传变异目录",
+    "summary": "多个马品种的全基因组变异研究。公开 VCF 提供 504 匹马的数据，这是原研究测序材料中的公开子集。",
+    "count": 504,
+    "unit": "VCF 样本",
+    "design": [
+      "群体"
+    ],
+    "vcf": true,
+    "reference": "EquCab3.0",
+    "depth": "",
+    "sources": [
+      [
+        "原始研究或发布页",
+        "https://doi.org/10.3389/fgene.2021.758366"
+      ],
+      [
+        "VCF 发布说明",
+        "https://doi.org/10.1038/s41598-024-57872-8"
+      ],
+      [
+        "变异文件归档",
+        "https://www.ebi.ac.uk/ena/browser/view/ERZ3634652"
+      ],
+      [
+        "项目归档 · PRJEB47918",
+        "https://www.ebi.ac.uk/ena/browser/view/PRJEB47918"
+      ]
+    ],
+    "aliases": "horse",
+    "archive_ids": [
+      "PRJEB47918"
+    ],
+    "runs": 0,
+    "biosamples": 0,
+    "variant_files": 0,
+    "en": {
+      "common": "Horse",
+      "title": "Catalog of whole-genome variation in horses",
+      "summary": "The study examined genomic variation across multiple horse breeds. The public VCF covers 504 horses, a subset of the animals included in the original sequencing study.",
+      "unit": "VCF samples",
+      "reference": "EquCab3.0",
+      "depth": "",
+      "source_labels": [
+        "Research paper",
+        "VCF release information",
+        "Archived variant files",
+        "Project archive · PRJEB47918"
+      ],
+      "taxon": "Equus caballus"
+    }
+  },
+  {
+    "id": "PRJNA189439",
+    "common": "黑猩猩及其他大型类人猿",
+    "taxon": "Pan · Gorilla · Pongo",
+    "group": "哺乳类",
+    "title": "大型类人猿基因组多样性",
+    "summary": "研究对 79 个大型类人猿个体进行全基因组测序。项目发布页分别提供 SNP、indel 和其他分析文件。",
+    "count": 79,
+    "unit": "个体",
+    "design": [
+      "群体"
+    ],
+    "vcf": true,
+    "reference": "hg18",
+    "depth": "",
+    "sources": [
+      [
+        "原始研究或发布页",
+        "https://doi.org/10.1038/nature12228"
+      ],
+      [
+        "项目数据发布页",
+        "https://eichlerlab.gs.washington.edu/greatape/data.html"
+      ],
+      [
+        "项目归档 · PRJNA189439",
+        "https://www.ebi.ac.uk/ena/browser/view/PRJNA189439"
+      ]
+    ],
+    "aliases": "黑猩猩 大猩猩 红毛猩猩 bonobo chimpanzee gorilla orangutan Pan troglodytes",
+    "archive_ids": [
+      "PRJNA189439"
+    ],
+    "runs": 0,
+    "biosamples": 0,
+    "variant_files": 0,
+    "en": {
+      "common": "Chimpanzees and other great apes",
+      "title": "Genomic diversity of great apes",
+      "summary": "The researchers sequenced the genomes of 79 great apes. The project data page provides separate SNP, indel and other analysis files.",
+      "unit": "individuals",
+      "reference": "hg18",
+      "depth": "",
+      "source_labels": [
+        "Research paper",
+        "Project data release",
+        "Project archive · PRJNA189439"
+      ],
+      "taxon": "Pan · Gorilla · Pongo"
+    }
+  },
+  {
+    "id": "Galbase-928",
+    "common": "鸡",
+    "taxon": "Gallus gallus",
+    "group": "鸟类",
+    "title": "Galbase 家鸡与原鸡基因组变异",
+    "summary": "Galbase 整合了 928 个重测序基因组，提供鸡品种和原鸡群体的变异信息。",
+    "count": 928,
+    "unit": "基因组",
+    "design": [
+      "群体"
+    ],
+    "vcf": true,
+    "reference": "GRCg6a",
+    "depth": "",
+    "sources": [
+      [
+        "原始研究或发布页",
+        "https://doi.org/10.1186/s12864-022-08598-2"
+      ],
+      [
+        "VCF 文件示例",
+        "http://animal.omics.pro/code/source/download/Chicken/variation/GRCg6a.928.SNP.vcf.gz"
+      ]
+    ],
+    "aliases": "chicken",
+    "archive_ids": [],
+    "runs": 0,
+    "biosamples": 0,
+    "variant_files": 0,
+    "en": {
+      "common": "Chicken",
+      "title": "Galbase genomic variation in chickens and junglefowl",
+      "summary": "Galbase integrated 928 resequenced genomes to document variation across domestic chicken breeds and junglefowl populations.",
+      "unit": "genomes",
+      "reference": "GRCg6a",
+      "depth": "",
+      "source_labels": [
+        "Research paper",
+        "Example VCF file"
+      ],
+      "taxon": "Gallus gallus"
+    }
+  },
+  {
+    "id": "PRJEB42783",
+    "common": "牛",
+    "taxon": "Bos taurus 等",
+    "group": "哺乳类",
+    "title": "1000 Bull Genomes 第八批公开变异",
+    "summary": "Run 8 的公开基因型数据按染色体发布。公开研究报告的基因型个体数为 1,832；一个染色体 VCF 的样本列数可能与该口径不同。",
+    "count": 1832,
+    "unit": "报告个体",
+    "design": [
+      "群体"
+    ],
+    "vcf": true,
+    "reference": "ARS-UCD1.2",
+    "depth": "",
+    "sources": [
+      [
+        "原始研究或发布页",
+        "https://agdatacommons.nal.usda.gov/articles/dataset/Run8_The_1000_Bull_Genomes_Project/25088234"
+      ],
+      [
+        "公开个体数的研究说明",
+        "https://doi.org/10.1038/s41598-022-09427-y"
+      ],
+      [
+        "归档 VCF · ERZ1738264",
+        "https://www.ebi.ac.uk/ena/browser/view/ERZ1738264"
+      ],
+      [
+        "项目归档 · PRJEB42783",
+        "https://www.ebi.ac.uk/ena/browser/view/PRJEB42783"
+      ]
+    ],
+    "aliases": "bull cattle",
+    "archive_ids": [
+      "PRJEB42783"
+    ],
+    "runs": 0,
+    "biosamples": 0,
+    "variant_files": 0,
+    "en": {
+      "common": "Cattle",
+      "title": "1000 Bull Genomes Run 8 public variants",
+      "summary": "Run 8 released public genotypes by chromosome. The study reports genotypes for 1,832 individuals. Sample-column counts in individual chromosome VCFs can differ from that figure.",
+      "unit": "reported individuals",
+      "reference": "ARS-UCD1.2",
+      "depth": "",
+      "source_labels": [
+        "Data release",
+        "Study reporting the number of public genotypes",
+        "Archived VCF · ERZ1738264",
+        "Project archive · PRJEB42783"
+      ],
+      "taxon": "Bos taurus and related taxa"
+    }
+  },
+  {
+    "id": "GVM-Bos-taurus",
+    "common": "牛",
+    "taxon": "Bos taurus",
+    "group": "哺乳类",
+    "title": "牛 Genome Variation Map 变异集",
+    "summary": "GVM 下载页按参考组装发布 SNP 和短 indel，可选择含个体基因型的详细 VCF。",
+    "count": 95,
+    "unit": "样本",
+    "design": [
+      "群体"
+    ],
+    "vcf": true,
+    "reference": "UMD_3.1",
+    "depth": "",
+    "sources": [
+      [
+        "原始研究或发布页",
+        "https://ngdc.cncb.ac.cn/gvm/download"
+      ]
+    ],
+    "aliases": "Genome Variation Map",
+    "archive_ids": [],
+    "runs": 0,
+    "biosamples": 0,
+    "variant_files": 0,
+    "en": {
+      "common": "Cattle",
+      "title": "Genome Variation Map cattle variants",
+      "summary": "Genome Variation Map organizes SNPs and short indels by reference assembly. The detailed VCFs include individual genotypes.",
+      "unit": "samples",
+      "reference": "UMD_3.1",
+      "depth": "",
+      "source_labels": [
+        "Genome Variation Map"
+      ],
+      "taxon": "Bos taurus"
+    }
+  },
+  {
+    "id": "GVM-Capra-hircus",
+    "common": "山羊",
+    "taxon": "Capra hircus",
+    "group": "哺乳类",
+    "title": "山羊 Genome Variation Map 变异集",
+    "summary": "GVM 下载页按参考组装发布 SNP 和短 indel，可选择含个体基因型的详细 VCF。",
+    "count": null,
+    "unit": "",
+    "design": [
+      "群体"
+    ],
+    "vcf": true,
+    "reference": "CHIR_2.0",
+    "depth": "",
+    "sources": [
+      [
+        "原始研究或发布页",
+        "https://ngdc.cncb.ac.cn/gvm/download"
+      ]
+    ],
+    "aliases": "Genome Variation Map",
+    "archive_ids": [],
+    "runs": 0,
+    "biosamples": 0,
+    "variant_files": 0,
+    "en": {
+      "common": "Goat",
+      "title": "Genome Variation Map goat variants",
+      "summary": "Genome Variation Map organizes SNPs and short indels by reference assembly. The detailed VCFs include individual genotypes.",
+      "unit": "",
+      "reference": "CHIR_2.0",
+      "depth": "",
+      "source_labels": [
+        "Genome Variation Map"
+      ],
+      "taxon": "Capra hircus"
+    }
+  },
+  {
+    "id": "GVM-Felis-catus",
+    "common": "家猫",
+    "taxon": "Felis catus",
+    "group": "哺乳类",
+    "title": "家猫 Genome Variation Map 变异集",
+    "summary": "GVM 下载页按参考组装发布 SNP 和短 indel，可选择含个体基因型的详细 VCF。",
+    "count": 95,
+    "unit": "VCF 样本列",
+    "design": [
+      "群体"
+    ],
+    "vcf": true,
+    "reference": "Felis_catus_9.0",
+    "depth": "",
+    "sources": [
+      [
+        "原始研究或发布页",
+        "https://ngdc.cncb.ac.cn/gvm/download"
+      ]
+    ],
+    "aliases": "Genome Variation Map",
+    "archive_ids": [],
+    "runs": 0,
+    "biosamples": 0,
+    "variant_files": 0,
+    "en": {
+      "common": "Domestic cat",
+      "title": "Genome Variation Map cat variants",
+      "summary": "Genome Variation Map organizes SNPs and short indels by reference assembly. The detailed VCFs include individual genotypes.",
+      "unit": "VCF sample columns",
+      "reference": "Felis_catus_9.0",
+      "depth": "",
+      "source_labels": [
+        "Genome Variation Map"
+      ],
+      "taxon": "Felis catus"
+    }
+  },
+  {
+    "id": "GVM-Sus-scrofa",
+    "common": "猪",
+    "taxon": "Sus scrofa",
+    "group": "哺乳类",
+    "title": "猪 Genome Variation Map 变异集",
+    "summary": "GVM 下载页按参考组装发布 SNP 和短 indel，可选择含个体基因型的详细 VCF。",
+    "count": null,
+    "unit": "",
+    "design": [
+      "群体"
+    ],
+    "vcf": true,
+    "reference": "Sscrofa10.2",
+    "depth": "",
+    "sources": [
+      [
+        "原始研究或发布页",
+        "https://ngdc.cncb.ac.cn/gvm/download"
+      ]
+    ],
+    "aliases": "Genome Variation Map",
+    "archive_ids": [],
+    "runs": 0,
+    "biosamples": 0,
+    "variant_files": 0,
+    "en": {
+      "common": "Pig",
+      "title": "Genome Variation Map pig variants",
+      "summary": "Genome Variation Map organizes SNPs and short indels by reference assembly. The detailed VCFs include individual genotypes.",
+      "unit": "",
+      "reference": "Sscrofa10.2",
+      "depth": "",
+      "source_labels": [
+        "Genome Variation Map"
+      ],
+      "taxon": "Sus scrofa"
+    }
+  }
+]

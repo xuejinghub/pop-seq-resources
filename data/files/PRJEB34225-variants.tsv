@@ -1,0 +1,4 @@
+﻿study_accession	analysis_accession	filename	archive_record	submitted_ftp	checked_https
+PRJEB34225	ERZ1070004	Salmon_SNP_80_samples_gatk_EBI_noINFO.vcf.gz	https://www.ebi.ac.uk/ena/browser/view/ERZ1070004	ftp://ftp.sra.ebi.ac.uk/vol1/analysis/ERZ107/ERZ1070004/Salmon_SNP_80_samples_gatk_EBI_noINFO.vcf.gz	
+PRJEB34225	ERZ1070005	Salmon_SNP_80_samples_freebayes_EBI_noINFO.vcf.gz	https://www.ebi.ac.uk/ena/browser/view/ERZ1070005	ftp://ftp.sra.ebi.ac.uk/vol1/analysis/ERZ107/ERZ1070005/Salmon_SNP_80_samples_freebayes_EBI_noINFO.vcf.gz	
+PRJEB34225	ERZ1070006	Salmon_SNP_80_samples_mpileup_EBI_noINFO.vcf.gz	https://www.ebi.ac.uk/ena/browser/view/ERZ1070006	ftp://ftp.sra.ebi.ac.uk/vol1/analysis/ERZ107/ERZ1070006/Salmon_SNP_80_samples_mpileup_EBI_noINFO.vcf.gz	

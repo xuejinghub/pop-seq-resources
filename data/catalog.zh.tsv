@@ -1,0 +1,52 @@
+﻿id	common	taxon	group	title	count	unit	design	vcf	reference	depth	sources
+CRA027444	佛罗里达文昌鱼	Branchiostoma floridae	头索动物	佛罗里达文昌鱼两代家系的生殖系新生突变	106	个体	家系	测序数据	研究生成的双亲等位感知组装（Platanus-allee）	每个个体约 50× 或更高	https://doi.org/10.1093/molbev/msag017 | https://ngdc.cncb.ac.cn/gsa/browse/CRA027444 | https://ngdc.cncb.ac.cn/bioproject/browse/PRJCA042497 | https://doi.org/10.57760/sciencedb.27648 | https://github.com/xuejinghub/Amphioxus_denovo_mutation_rate
+PRJEB82216	三刺鱼	Gasterosteus aculeatus	鱼类	三刺鱼四个家系的新生突变	48	个体	家系	测序数据	三刺鱼参考基因组 v5	约 45×	https://doi.org/10.1038/s41437-025-00767-9 | https://www.ebi.ac.uk/ena/browser/view/PRJEB82216 | https://doi.org/10.6084/m9.figshare.27645810 | https://github.com/zcharlene/3sticklebackDNMrate
+GVM001075	家犬	Canis lupus familiaris	哺乳类	43 个犬品种的多代家系测序	643	个体	家系	公开 VCF	CanFam3.1	643 只犬的平均覆盖度为 43.3×	https://doi.org/10.1186/s13059-025-03804-2 | https://ngdc.cncb.ac.cn/gvm/getProjectDetail?project=GVM001075 | https://ngdc.cncb.ac.cn/gvm/getProjectDetail?project=GVM000097 | https://www.ebi.ac.uk/ena/browser/view/PRJNA1079355 | https://ngdc.cncb.ac.cn/gsa/browse/CRA004356 | https://ngdc.cncb.ac.cn/gsa/browse/CRA002653 | https://ngdc.cncb.ac.cn/gsa/browse/CRA002915 | https://ngdc.cncb.ac.cn/gsa/browse/CRA001113
+PRJNA1172395	西方仓鸮	Tyto alba	鸟类	瑞士仓鸮长期系谱测序	326	BioSample	家系	测序数据			https://doi.org/10.1093/genetics/iyae190 | https://www.ebi.ac.uk/ena/browser/view/PRJNA1172395
+PRJEB59912	西方蜜蜂	Apis mellifera	昆虫	AmelHap 蜜蜂单倍型图谱	1328	VCF 样本	群体	公开 VCF	Amel_HAv3.1		https://doi.org/10.1038/s41597-023-02097-z | https://www.ebi.ac.uk/ena/browser/view/PRJEB59912 | https://www.ebi.ac.uk/ena/browser/view/PRJEB39369 | https://www.ebi.ac.uk/ena/browser/view/ERZ16182398
+PRJEB62420	犬、狼与郊狼	Canis spp.	哺乳类	Dog10K 第一期犬科变异面板	1987	VCF 样本	群体	公开 VCF	UU_Cfam_GSD_1.0	18.99×，1,987 个样本的有效常染色体平均覆盖度中位数	https://pmc.ncbi.nlm.nih.gov/articles/PMC10426128/ | https://www.ebi.ac.uk/ena/browser/view/PRJEB62420 | https://www.ebi.ac.uk/ena/browser/view/ERZ18321977
+PRJNA982083	Cunner 隆头鱼	Tautogolabrus adspersus	鱼类	西北大西洋礁栖鱼群体基因组	803	个体	群体	测序数据			https://www.ncbi.nlm.nih.gov/bioproject/982083 | https://doi.org/10.5061/dryad.ksn02v799 | https://www.ebi.ac.uk/ena/browser/view/PRJNA982083
+1001G-v3.1	拟南芥	Arabidopsis thaliana	植物	1001 Genomes 全球种质变异图谱	1135	种质	群体	公开 VCF	TAIR10		https://1001genomes.org/data/GMI-MPI/releases/v3.1/ | https://1001genomes.org/data/GMI-MPI/releases/v3.1/1001genomes_snp-short-indel_with_tair10_only_ACGTN.vcf.gz | https://pmc.ncbi.nlm.nih.gov/articles/PMC4949382/
+PRJEB66288	桃蛀螟	Conogethes punctiferalis	昆虫	中国桃蛀螟全基因组重测序	110	个体	群体	公开 VCF	GCA_031163375.1	18.4×，论文报告的 110 个体平均覆盖度	https://doi.org/10.1038/s41597-023-02730-x | https://www.ebi.ac.uk/ena/browser/view/SRP451679 | https://www.ebi.ac.uk/ena/browser/view/PRJEB66288 | https://www.ebi.ac.uk/ena/browser/view/ERZ21819523
+PRJEB34846	绿头鸭及家鸭品种	Anas platyrhynchos	鸟类	韩国地方鸭与其他鸭品种比较	123	个体	群体	公开 VCF			https://doi.org/10.1186/s12864-020-06933-z | https://www.ebi.ac.uk/ena/browser/view/PRJEB34846 | https://www.ebi.ac.uk/ena/browser/view/ERZ1089764
+PRJEB55239	鸡	Gallus gallus	鸟类	文昌鸡遗传多样性与群体结构	358	个体	群体	公开 VCF			https://doi.org/10.1111/age.13293 | https://www.ebi.ac.uk/ena/browser/view/PRJEB55239 | https://www.ebi.ac.uk/ena/browser/view/PRJNA858168 | https://www.ebi.ac.uk/ena/browser/view/ERZ12633831
+PRJEB39599	九刺鱼	Pungitius pungitius · P. tymensis	鱼类	野生九刺鱼群体测序	870	Run	群体	公开 VCF			https://doi.org/10.1111/mec.16651 | https://zenodo.org/records/6951309 | https://www.ebi.ac.uk/ena/browser/view/PRJEB39599
+PRJNA1047030	巴布亚企鹅	Pygoscelis papua	鸟类	南极半岛巴布亚企鹅群体测序	129	个体	群体	测序数据			https://www.ebi.ac.uk/ena/browser/view/PRJNA1047030
+PRJEB14685	绵羊	Ovis aries	哺乳类	Sheep Genomes 首批变异集	453	VCF 样本	群体	公开 VCF	Oar_v3.1		https://www.ebi.ac.uk/ena/browser/view/PRJEB14685 | https://www.ebi.ac.uk/ena/browser/view/PRJEB14684 | https://www.ebi.ac.uk/ena/browser/view/ERZ324578
+PRJEB22989	非洲绿猴属	Chlorocebus spp.	哺乳类	非洲与加勒比绿猴群体变异	163	个体	群体	公开 VCF	Chlorocebus_sabeus 1.1		https://www.ebi.ac.uk/ena/browser/view/ERZ479236 | https://www.ebi.ac.uk/ena/browser/view/PRJEB22989 | https://www.ebi.ac.uk/ena/browser/view/ERZ479239
+PRJNA942350	鸡	Gallus gallus	鸟类	中国地方鸡遗传多样性	209	个体	群体	公开 VCF			https://doi.org/10.1038/s41597-024-02995-w | https://www.ebi.ac.uk/ena/browser/view/PRJNA942350 | https://www.ebi.ac.uk/ena/browser/view/PRJEB71347
+PRJEB39275	鸡	Gallus gallus	鸟类	埃塞俄比亚地方鸡群体重测序	234	个体	群体	公开 VCF	GRCg6a	57×，论文报告的平均覆盖度	https://doi.org/10.1038/s41597-022-01129-4 | https://www.ebi.ac.uk/ena/browser/view/PRJEB39275 | https://www.ebi.ac.uk/ena/browser/view/PRJEB46494
+GVM000479	猪	Sus scrofa	哺乳类	多品种猪定相参考面板	937	面板个体	家系 / 群体	公开 VCF		17.1×，研究中 1,096 份基因组的平均覆盖度	https://doi.org/10.1038/s41467-023-40434-3 | https://ngdc.cncb.ac.cn/gvm/getProjectDetail?project=GVM000479
+GVM000310	猪	Sus scrofa	哺乳类	F6 / F7 猪群体测序	1504	样本	群体	公开 VCF	Sscrofa11.1		https://ngdc.cncb.ac.cn/gvm/getProjectDetail?project=GVM000310
+Ce-20231213	秀丽隐杆线虫	Caenorhabditis elegans	线虫	CaeNDR 野生品系发布集	1617	测序品系	群体	公开 VCF	WS283		https://caendr.org/data/data-release/c-elegans/20231213
+Cb-20240129	布氏隐杆线虫	Caenorhabditis briggsae	线虫	CaeNDR 布氏隐杆线虫野生品系	1785	测序品系	群体	公开 VCF	QX1410_nanopore Feb2020		https://caendr.org/data/data-release/c-briggsae/20240129
+CNP0002456	家蚕与野桑蚕	Bombyx mori · B. mandarina	昆虫	家蚕与野蚕泛基因组	1082	基因组	群体	公开 VCF			https://doi.org/10.1038/s41467-022-33366-x | https://db.cngb.org/search/project/CNP0002456/ | https://ngdc.cncb.ac.cn/gsa/browse/CRA007878
+CgiVN1-SMGV	太平洋牡蛎	Crassostrea gigas	软体动物	牡蛎参考组装与群体变异	495	个体	群体	公开 VCF	CgiVN1		https://doi.org/10.1111/1755-0998.13368
+mGAP-v2.5	恒河猴	Macaca mulatta	哺乳类	mGAP 恒河猴变异资源	3562	VCF 样本列	群体	公开 VCF	Mmul_10		https://mgap.ohsu.edu/ | https://mgap.ohsu.edu/project/mGAP/begin.view?pageId=variants
+Zenodo-5592452	西方蜜蜂	Apis mellifera	昆虫	西欧蜜蜂群体结构与单倍型	870	VCF 样本列	群体	公开 VCF	Amel_HAv3.1		https://zenodo.org/records/5592452
+PRJEB34225	大西洋鲑	Salmo salar	鱼类	北美养殖大西洋鲑 SNP 发现	80	个体	群体	公开 VCF			https://www.ebi.ac.uk/ena/browser/view/PRJEB34225
+PRJDB11027	小家鼠	Mus musculus	哺乳类	欧亚野生小家鼠基因组	98	归档 Run	群体	测序数据			https://www.ebi.ac.uk/ena/browser/view/PRJDB11027
+PRJDB11969	小家鼠	Mus musculus	哺乳类	马达加斯加小家鼠群体历史	5	个体	群体	测序数据			https://www.ebi.ac.uk/ena/browser/view/PRJDB11969
+PRJEB11742	小家鼠与穗鼠	Mus musculus · M. spretus	哺乳类	野生小家鼠及近缘种资源	24	归档 Run	群体	公开 VCF			https://www.ebi.ac.uk/ena/browser/view/PRJEB11742 | https://doi.org/10.1038/sdata.2016.75 | https://pmc.ncbi.nlm.nih.gov/articles/PMC5020872/#s3 | https://wwwuser.gwdg.de/~evolbio/evolgen/wildmouse/
+PRJEB2176	小家鼠及近缘种	Mus musculus · M. famulus	哺乳类	野生来源小鼠的基因组多样性	178	归档 Run	群体	公开 VCF			https://www.ebi.ac.uk/ena/browser/view/PRJEB2176 | https://pmc.ncbi.nlm.nih.gov/articles/PMC5020872/#s3 | https://wwwuser.gwdg.de/~evolbio/evolgen/wildmouse/
+PRJEB2922	野生大鼠	Rattus norvegicus · R. rattus	哺乳类	野生大鼠种群多样性	170	归档 Run	群体	测序数据			https://www.ebi.ac.uk/ena/browser/view/PRJEB2922
+PRJEB9450	小家鼠	Mus musculus	哺乳类	野生小家鼠拷贝数变异	27	归档 Run	群体	公开 VCF			https://www.ebi.ac.uk/ena/browser/view/PRJEB9450 | https://pmc.ncbi.nlm.nih.gov/articles/PMC5020872/#s3 | https://wwwuser.gwdg.de/~evolbio/evolgen/wildmouse/
+PRJNA293011	褐家鼠	Rattus norvegicus	哺乳类	中国南北方大鼠基因组与甲基化	20	归档 Run	群体	测序数据			https://www.ebi.ac.uk/ena/browser/view/PRJNA293011
+PRJNA344413	大鼠	Rattus norvegicus · R. rattus	哺乳类	褐家鼠的全球谱系地理	454	归档 Run	群体	测序数据			https://www.ebi.ac.uk/ena/browser/view/PRJNA344413
+PRJNA487943	褐家鼠	Rattus norvegicus	哺乳类	大鼠异质种群的奠基材料	8	个体	群体	测序数据		约 30× / 样本（项目说明）	https://www.ebi.ac.uk/ena/browser/view/PRJNA487943
+PRJNA587779	西欧小家鼠	Mus musculus domesticus	哺乳类	戈夫岛野生小家鼠基因组	16	个体	群体	测序数据			https://www.ebi.ac.uk/ena/browser/view/PRJNA587779
+PRJNA678815	鸿雁与灰雁	Anser cygnoides · A. anser	鸟类	鹅的驯化与种群基因组	994	个体	群体	测序数据			https://www.ebi.ac.uk/ena/browser/view/PRJNA678815
+PRJNA700797	西方仓鸮	Tyto alba	鸟类	不列颠群岛仓鸮群体基因组	63	归档 Run	群体	测序数据			https://www.ebi.ac.uk/ena/browser/view/PRJNA700797
+PRJNA727977	西方仓鸮	Tyto alba	鸟类	西古北界仓鸮群体基因组	61	归档 Run	群体	测序数据			https://www.ebi.ac.uk/ena/browser/view/PRJNA727977
+PRJNA774943	西方仓鸮	Tyto alba	鸟类	加那利群岛仓鸮群体基因组	14	归档 Run	群体	测序数据			https://www.ebi.ac.uk/ena/browser/view/PRJNA774943
+PRJNA851025	小家鼠	Mus musculus castaneus	哺乳类	巴基斯坦野生小家鼠分类研究	14	个体	群体	测序数据			https://doi.org/10.1038/s41598-022-25420-x | https://www.ebi.ac.uk/ena/browser/view/PRJNA851025
+PRJNA925445	西方仓鸮	Tyto alba	鸟类	仓鸮羽色多态性的基因组基础	20	归档 Run	群体	测序数据			https://www.ebi.ac.uk/ena/browser/view/PRJNA925445
+PRJEB65290	雀形目鸟类	Fringilla spp. 等	鸟类	马卡罗尼西亚群岛雀类分化	1247	归档 Run	群体	测序数据			https://www.ebi.ac.uk/ena/browser/view/PRJEB65290
+PRJEB47918	马	Equus caballus	哺乳类	马全基因组遗传变异目录	504	VCF 样本	群体	公开 VCF	EquCab3.0		https://doi.org/10.3389/fgene.2021.758366 | https://doi.org/10.1038/s41598-024-57872-8 | https://www.ebi.ac.uk/ena/browser/view/ERZ3634652 | https://www.ebi.ac.uk/ena/browser/view/PRJEB47918
+PRJNA189439	黑猩猩及其他大型类人猿	Pan · Gorilla · Pongo	哺乳类	大型类人猿基因组多样性	79	个体	群体	公开 VCF	hg18		https://doi.org/10.1038/nature12228 | https://eichlerlab.gs.washington.edu/greatape/data.html | https://www.ebi.ac.uk/ena/browser/view/PRJNA189439
+Galbase-928	鸡	Gallus gallus	鸟类	Galbase 家鸡与原鸡基因组变异	928	基因组	群体	公开 VCF	GRCg6a		https://doi.org/10.1186/s12864-022-08598-2 | http://animal.omics.pro/code/source/download/Chicken/variation/GRCg6a.928.SNP.vcf.gz
+PRJEB42783	牛	Bos taurus 等	哺乳类	1000 Bull Genomes 第八批公开变异	1832	报告个体	群体	公开 VCF	ARS-UCD1.2		https://agdatacommons.nal.usda.gov/articles/dataset/Run8_The_1000_Bull_Genomes_Project/25088234 | https://doi.org/10.1038/s41598-022-09427-y | https://www.ebi.ac.uk/ena/browser/view/ERZ1738264 | https://www.ebi.ac.uk/ena/browser/view/PRJEB42783
+GVM-Bos-taurus	牛	Bos taurus	哺乳类	牛 Genome Variation Map 变异集	95	样本	群体	公开 VCF	UMD_3.1		https://ngdc.cncb.ac.cn/gvm/download
+GVM-Capra-hircus	山羊	Capra hircus	哺乳类	山羊 Genome Variation Map 变异集			群体	公开 VCF	CHIR_2.0		https://ngdc.cncb.ac.cn/gvm/download
+GVM-Felis-catus	家猫	Felis catus	哺乳类	家猫 Genome Variation Map 变异集	95	VCF 样本列	群体	公开 VCF	Felis_catus_9.0		https://ngdc.cncb.ac.cn/gvm/download
+GVM-Sus-scrofa	猪	Sus scrofa	哺乳类	猪 Genome Variation Map 变异集			群体	公开 VCF	Sscrofa10.2		https://ngdc.cncb.ac.cn/gvm/download
